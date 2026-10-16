@@ -1,0 +1,2130 @@
+{
+  "soil_archetypes": [
+    {
+      "id": "thin_stony_loam",
+      "name": "Thin Stony Loam",
+      "description": "A shallow, gritty mountain terrace loam crowded with sharp angular shale and granite fragments. It ranges from a pale greyish-brown to dull umber. It feels gritty and loose between the fingers, rarely clumping together, and hits solid rock ledge within one hand's depth.",
+      "hand_tests": [
+        {
+          "test_name": "Palm Squeeze Clump Test",
+          "procedure": "Scoop a handful of slightly damp soil from one knuckle deep, squeeze it firmly into a fist for the count of three breaths, then open the palm and poke the lump gently with one finger.",
+          "interpretation": "If the ball holds shape firmly like dough, clay is adequate; if it crumbles into loose gravel and dust upon the lightest touch, the soil is excessively stony and starved of humus, meaning water will drain away faster than roots can drink."
+        },
+        {
+          "test_name": "Hand-Depth Ledge Poke Test",
+          "procedure": "Plunge a straight, dried pine stick as thick as your thumb straight down into the bed with steady palm pressure until it stops.",
+          "interpretation": "If the stick penetrates deeper than your wrist, the soil pocket can host taproots; if it hits hard shelf before reaching your mid-palm, root space is critically shallow and requires mounding or bed raising."
+        },
+        {
+          "test_name": "Clear Jar Water Slaking Test",
+          "procedure": "Drop two handfuls of soil into an old food jar or wide neck bottle, fill with stream water, shake vigorously while singing a short work song, then set on a flat slate for one candle-flicker of time.",
+          "interpretation": "Heavy stones and sand drop to the bottom instantly; loam settles as a thin middle layer; if the water above remains clear with barely a fingernail-thickness of dark organic scum floating on top, the soil is starved of organic matter."
+        },
+        {
+          "test_name": "Dock Leaf Sourness Sniff Test",
+          "procedure": "Dig up a handful of earth from root level, cup it in both hands, warm it with three deep exhalations, and inhale deeply through the nose.",
+          "interpretation": "A sweet, rich smell like fallen autumn woods indicates living healthy earth; a sharp vinegar tang or dead metallic stench indicates sour, water-starved, or oxygen-choked soil requiring wood ash and airing."
+        },
+        {
+          "test_name": "Two-Handful Worm Census",
+          "procedure": "Dig a hole one hand's span wide and one hand's depth deep, spread the excavated soil across a flat slate, and count every living wriggler or grub.",
+          "interpretation": "Finding three or more active earthworms means the biological engine is alive; zero worms means the terrace is sterile, excessively cold, or too acidic, demanding immediate dung and leaf mould infusions."
+        }
+      ],
+      "dominant_failures": [
+        "Rapid drought from wind desiccation and hyper-fast drainage",
+        "Stone volume exceeding half the bed capacity, crowding out root expansion",
+        "Severe nutrient leaching during fierce spring snowmelt torrents",
+        "Shallow root anchorage causing plants to topple under fierce mountain gales"
+      ],
+      "remediation_steps": [
+        {
+          "step_number": 1,
+          "action": "Surface Stone Sieving and Border Raking",
+          "materials": "Pitted wooden laths or interlaced willow sieve, hands, wooden rake",
+          "amount": "Two large bucketfuls of stone chips removed per pace length",
+          "purpose": "Clears root runways so taproots do not deform or split against jagged granite chips."
+        },
+        {
+          "step_number": 2,
+          "action": "Humus Sponge Incorporation",
+          "materials": "Crumbled dark leaf duff gathered from sheltered cliff hollows and rotted pine needle mould",
+          "amount": "Four generous double-handfuls worked into every pace of planting bed",
+          "purpose": "Creates moisture-holding spongy pockets that prevent midday mountain winds from baking the root zone dry."
+        },
+        {
+          "step_number": 3,
+          "action": "Sweet Wood Ash Dressing",
+          "materials": "Grey powdery ash collected from hardwood and seasoned conifer hearth fires",
+          "amount": "One level handful scattered evenly across each pace of planting trench",
+          "purpose": "Tames the sour runoff washed down from highland scree and releases locked earth minerals."
+        },
+        {
+          "step_number": 4,
+          "action": "Crushed Charcoal Moisture Lock",
+          "materials": "Crushed black campfire charcoal pulverized to pea-sized bits and quenched in animal dung tea",
+          "amount": "Two handfuls blended with topsoil around each seedling station",
+          "purpose": "Acts as permanent microporous micro-batteries for water and beneficial microbes in thin ground."
+        }
+      ]
+    },
+    {
+      "id": "gravelly_mountain_scree",
+      "name": "Gravelly Mountain Scree",
+      "description": "Loose, rattling slope-wash consisting of fingernail to palm-sized jagged slate and schist fragments bound with meager coarse grit. It lacks cohesive earth, feels dry and raspy, and offers zero resistance to a thrusting boot heel.",
+      "hand_tests": [
+        {
+          "test_name": "Boot Heel Churn Test",
+          "procedure": "Drive your boot heel sharply down into the surface and twist half a circle.",
+          "interpretation": "If the ground rattles loose and rolls away like dry peas, it will wash down the mountain during the first rainstorm unless anchored with wattling."
+        },
+        {
+          "test_name": "Palm Rub Grit Check",
+          "procedure": "Rub a pinch of moist scree fines between your thumb and index finger next to your ear.",
+          "interpretation": "A loud grating scratch with no greasy slip confirms nearly pure mineral stone dust with zero clay binder."
+        },
+        {
+          "test_name": "Midday Sun Radiance Palm Test",
+          "procedure": "Place a bare palm flat on the scree stones at high noon, then return and touch it three hand-breadths after sunset.",
+          "interpretation": "If scorching hot at midday but bone-numbingly cold by twilight, the bed experiences wild thermal swings that will shock young roots without thick organic capping."
+        },
+        {
+          "test_name": "Water Pour Disappearance Test",
+          "procedure": "Tip half a bucketful of water onto the scree from knee height.",
+          "interpretation": "If the water vanishes instantly with a hiss leaving the top stones dry within twenty paces of walking, water holding is zero."
+        },
+        {
+          "test_name": "Sediment Horn Swirl",
+          "procedure": "Swirl a handful of fine scree dust in a drinking horn or cup of water and let stand.",
+          "interpretation": "If sediment drops like lead shot leaving crystal clear water with no murkiness, there are zero colloidal clays to bind nutrients."
+        }
+      ],
+      "dominant_failures": [
+        "Absolute inability to store water between mountain showers",
+        "Extreme temperature swings from blistered rock noon to freezing night",
+        "Physical creep and downhill drift during rainstorms",
+        "Severe nutrient starvation with no clay or humus buffer"
+      ],
+      "remediation_steps": [
+        {
+          "step_number": 1,
+          "action": "Willow Hurdle Silt Catch Installation",
+          "materials": "Flexible green willow and hazel wands driven across the contour",
+          "amount": "One woven barrier one shin-height tall every three paces down the terrace",
+          "purpose": "Stabilizes rolling scree and catches downward-drifting silt."
+        },
+        {
+          "step_number": 2,
+          "action": "Clay-Mud Slurry Grouting",
+          "materials": "Heavy clay dug from mountain seepages whipped with stream water in a bucket",
+          "amount": "Three bucketfuls poured directly into the stone gravel bed per pace",
+          "purpose": "Plugs cavernous voids between scree rocks, providing an adhesive matrix that stops water from plunging straight to bedrock."
+        },
+        {
+          "step_number": 3,
+          "action": "Inverted Mountain Sod Cap Layering",
+          "materials": "Thick wild pasture sod sliced from native mountain grass tussocks",
+          "amount": "One turf layer laid grass-side-down over the grouted scree across the whole bed",
+          "purpose": "Forms a rotting fibrous blanket that holds moisture and creates a biological growing floor."
+        },
+        {
+          "step_number": 4,
+          "action": "Rotted Animal Bedding Blanketing",
+          "materials": "Overwintered straw and dung scraped from shelter corners",
+          "amount": "A blanket spread as thick as four fingers across the bed",
+          "purpose": "Insulates against wild temperature fluctuations and feeds decomposing soil fungi."
+        }
+      ]
+    },
+    {
+      "id": "compacted_glacial_clay_pocket",
+      "name": "Compacted Glacial Clay Pocket",
+      "description": "Dense, cold, blue-grey or dull ochre clay trapped in terrace hollows or near bedrock seepage. It feels greasy and heavy when wet, rolling into slick ribbons, but sets into brick-hard crusts that fissure with deep cracks under drying winds.",
+      "hand_tests": [
+        {
+          "test_name": "Thumb Snake Ribbon Test",
+          "procedure": "Take a walnut-sized ball of wet soil, roll it between your palms into a thumb-thick snake, and push it over your forefinger until it snaps of its own weight.",
+          "interpretation": "If the ribbon extends past two finger knuckles before breaking, the earth is dense, heavy clay that will suffocate roots if not opened with grit and fluff."
+        },
+        {
+          "test_name": "Spit and Polish Friction Check",
+          "procedure": "Moisten a thumbnail-sized patch of clay with spit and rub it firmly with the ball of your thumb.",
+          "interpretation": "If it shines like polished shoe leather without scratching, fine colloidal clay dominates, which blocks water infiltration when dry."
+        },
+        {
+          "test_name": "Standing Puddle Soak Test",
+          "procedure": "Scoop out a hole the size of your two fists, pour in a bowl of water, and watch the time it takes to sink away.",
+          "interpretation": "If water sits stagnant for longer than it takes to boil a survival stew over campfire, root rot and suffocating stagnation are certain during cold spells."
+        },
+        {
+          "test_name": "Anaerobic Mud Smell Test",
+          "procedure": "Dig down a forearm's depth into the clay bed and immediately sniff the freshly severed clod.",
+          "interpretation": "A smell of rotten ditch swamp or sour bog indicates dead, anaerobic ground lacking air; sweet earth smell indicates living pore channels."
+        },
+        {
+          "test_name": "Sun-Bake Clod Strike Test",
+          "procedure": "Take an egg-sized clod dried in the sun and attempt to crush it between your thumb and fingers.",
+          "interpretation": "If it resists all finger pressure and requires a rock hammer blow to shatter, it will strangle seedling emergence without heavy winter frost-flaking."
+        }
+      ],
+      "dominant_failures": [
+        "Waterlogging and total oxygen starvation in root zones",
+        "Slowest to warm up in spring, lagging behind other beds by up to a full moon cycle",
+        "Heaving viciously during hard frosts, snapping brittle plant roots",
+        "Rock-hard surface crusting preventing seedling emergence"
+      ],
+      "remediation_steps": [
+        {
+          "step_number": 1,
+          "action": "Coarse River Sand and Fine Gravel Incorporation",
+          "materials": "Coarse gritty sand washed clean by mountain stream rapids",
+          "amount": "Three generous bucketfuls worked into every pace length",
+          "purpose": "Fractures the dense clay matrix with permanent non-collapsible drainage pores."
+        },
+        {
+          "step_number": 2,
+          "action": "Rough Ridging for Winter Frost-Flaking",
+          "materials": "Heavy digging spade or sturdy sharpened fire-hardened wooden stake",
+          "amount": "Tossed into knee-high jagged ridges before the first hard winter freeze",
+          "purpose": "Allows ice needles to expand within clods, naturally pulverizing the stubborn clay into fine crumbly tilth."
+        },
+        {
+          "step_number": 3,
+          "action": "Crushed Dry Bracken and Chaff Blending",
+          "materials": "Crisp dried mountain bracken fern, shredded conifer bark, and crushed dry brush",
+          "amount": "Two armfuls per pace buried deep into trench bottoms",
+          "purpose": "Keeps the subsoil porous and stops clay from recombining into a solid slick mass."
+        },
+        {
+          "step_number": 4,
+          "action": "Slaked Hearth Ash Sweetening",
+          "materials": "Fine wood ash from cold campfire ash pits",
+          "amount": "Two handfuls dusted over each pace of raised ridge",
+          "purpose": "Flakes clay colloids together into looser crumbs while counteracting sour wet stagnation."
+        }
+      ]
+    },
+    {
+      "id": "coarse_granite_sand_shelf",
+      "name": "Coarse Granite Sand Shelf",
+      "description": "Pale buff to sparkling white decomposed granite sand resting on sheltered terrace steps. Highly abrasive, gritty, completely devoid of stickiness, and lets water pour through as freely as dry seeds through fingers.",
+      "hand_tests": [
+        {
+          "test_name": "Handful Squeeze Collapse Test",
+          "procedure": "Plunge both hands into the damp sand, compress into a tight snowball shape, and release onto a flat rock.",
+          "interpretation": "If the mound immediately slumps into a flat heap like beach sand, organic binding agents are absent and nutrients will wash away on the next shower."
+        },
+        {
+          "test_name": "Palm Smear Organic Stain Test",
+          "procedure": "Rub a damp handful vigorously into your open palm and blow the sand away.",
+          "interpretation": "If your skin remains clean and unsoiled without a dark brown earthy smudge, the sand is completely barren of vital humus."
+        },
+        {
+          "test_name": "Wind Scour Blow Test",
+          "procedure": "Kneel close to the bed on a dry windy morning and blow gently across the dry surface.",
+          "interpretation": "If the sand lifts into a flying blinding spray, seedling roots will be stripped bare by mountain winds unless anchored with a heavy top mulch."
+        },
+        {
+          "test_name": "Finger Penetration Ease Test",
+          "procedure": "Push your index finger straight down into the bed with no digging motion.",
+          "interpretation": "If your finger sinks to the palm with zero effort, soil is wonderfully loose for root growth but structurally unstable against mountain downpours."
+        },
+        {
+          "test_name": "Mid-Morning Evaporation Touch",
+          "procedure": "Thoroughly wet a patch at sunrise and touch it again when the sun reaches three hand-breadths above the mountain ridge.",
+          "interpretation": "If the surface feels dry and warm as dust already, moisture retention is critically deficient."
+        }
+      ],
+      "dominant_failures": [
+        "Inability to hold water in the upper root zone",
+        "Wind scouring stripping fine roots bare during gusty dry spells",
+        "Nutrient emptiness, causing seedling yellowing and stunted dwarfism",
+        "High daytime reflective glare heating soil uncomfortably then cooling sharply"
+      ],
+      "remediation_steps": [
+        {
+          "step_number": 1,
+          "action": "Mountain Bog Peat and Sedge Mud Binding",
+          "materials": "Fibrous dark peat dug from alpine wetland hollows",
+          "amount": "Two heaping bucketfuls worked into each pace of planting trench",
+          "purpose": "Acts as an enduring cellular sponge that holds twenty times its weight in water."
+        },
+        {
+          "step_number": 2,
+          "action": "Fine Glacial Silt Layering",
+          "materials": "Dull flour-like silt scooped from dried stream eddy pools",
+          "amount": "One bucketful blended into the top hand's depth of bed",
+          "purpose": "Supplies the fine mineral particles missing from coarse decomposed granite."
+        },
+        {
+          "step_number": 3,
+          "action": "Charred Pine Wood Mulch Cap",
+          "materials": "Crushed campfire charcoal and partly charred pine twigs",
+          "amount": "A layer one finger knuckle deep laid across the top",
+          "purpose": "Darkens the pale sand to absorb spring solar warmth while anchoring grains against wind lift."
+        },
+        {
+          "step_number": 4,
+          "action": "Compost Tea Drenching",
+          "materials": "Stoneware jug of steeped rabbit pellets, nettle greens, and mountain water",
+          "amount": "Half a bucketful sprinkled per pace twice a moon",
+          "purpose": "Seeds the barren sand with living microorganisms to unlock locked stone nutrients."
+        }
+      ]
+    },
+    {
+      "id": "acidic_pine_duff_terrace",
+      "name": "Acidic Pine Duff Terrace",
+      "description": "A thick, spongy, reddish-brown carpet of decomposing pine, fir, and spruce needles overlying rocky terrace soil. It has a springy mattress feel under boot, smells strongly of turpentine and sour tannins, and repels cold water droplets when dry.",
+      "hand_tests": [
+        {
+          "test_name": "Water Drop Beading Test",
+          "procedure": "Flick droplets of cold stream water from your fingertips onto dry surface duff.",
+          "interpretation": "If droplets ball up like shiny silver beads and skate across the needles without soaking in for the count of twenty breaths, the duff is waxy and water-repellent."
+        },
+        {
+          "test_name": "Wood Ash Hearth Fizz Check",
+          "procedure": "Mix two fingertips of wood ash into a palmful of wet duff paste and listen closely next to your ear.",
+          "interpretation": "A faint prickling hiss or rapid softening of the acrid smell confirms high acidity that will lock out brassicas and beans unless neutralized."
+        },
+        {
+          "test_name": "Spongy Springback Boot Check",
+          "procedure": "Step down firmly with your heel and lift your boot.",
+          "interpretation": "If the earth springs back up immediately like wool fleece, seed-to-soil contact will fail; seeds will dangle in air pockets and dehydrate."
+        },
+        {
+          "test_name": "Resin Needle Color Scan",
+          "procedure": "Examine the sub-surface duff under daylight.",
+          "interpretation": "Bright reddish-orange needles indicate fresh, sour, nitrogen-robbing decay; dark chocolate-brown crumbly dust indicates well-rotted usable humus."
+        },
+        {
+          "test_name": "Under-Rock Fungal Net Check",
+          "procedure": "Flip over a flat slate resting on the duff bed and inspect the undersurface.",
+          "interpretation": "Thick white spiderweb fungal threads show active decomposition, but an absence of worms indicates the acidity is still too sour for garden crops."
+        }
+      ],
+      "dominant_failures": [
+        "Excessive acidity stunting root tips and locking out vital nutrients",
+        "Hydrophobic waxy surface shedding life-giving spring showers",
+        "Nitrogen theft by unrotted woody resinous needles",
+        "Fluffy airy structure leaving young roots unsupported"
+      ],
+      "remediation_steps": [
+        {
+          "step_number": 1,
+          "action": "Deep Raking of Coarse Surface Needles",
+          "materials": "Stiff branch rake or clawed stick",
+          "amount": "Remove the top two finger-depths of fresh red needles to the compost cairn",
+          "purpose": "Stops fresh resinous oils and sour tannins from continuing to leach into the seedbed."
+        },
+        {
+          "step_number": 2,
+          "action": "Heavy Sweet Hearth Ash Dosing",
+          "materials": "Sifted wood ash from the hearth fire, rich in lime and potash",
+          "amount": "Three generous handfuls dusted across every pace of bed",
+          "purpose": "Neutralizes the sour pine vinegar acids and unlocks minerals for hungry cold-weather roots."
+        },
+        {
+          "step_number": 3,
+          "action": "Crushed Bone and Eggshell Calcification",
+          "materials": "Campfire-calcined animal bones and wild bird eggshells hammered to coarse meal on flat rock",
+          "amount": "Two handfuls worked into each planting hole",
+          "purpose": "Provides long-lasting sweetening calcium to balance acidic soil water permanently."
+        },
+        {
+          "step_number": 4,
+          "action": "Firming Heel-Tread and Wet Loam Blending",
+          "materials": "Heavy subsoil loam from ditch digging and foot tamping",
+          "amount": "Two bucketfuls of dense earth per pace, tamped firm with boots",
+          "purpose": "Collapses excessive air pockets and establishes dense capillary contact for seed roots."
+        }
+      ]
+    },
+    {
+      "id": "eroded_bedrock_shallows",
+      "name": "Eroded Bedrock Shallows",
+      "description": "Extremely shallow dirt pockets sitting directly on solid flat terrace bedrock shelf, measuring barely two to three fingers deep. Soil is a rich mixture of windblown dust and ancient moss crust, but suffers from severe lack of volume and root run.",
+      "hand_tests": [
+        {
+          "test_name": "Two-Knuckle Tap Test",
+          "procedure": "Drive your index finger knuckle into the dirt until your knuckle strikes solid stone.",
+          "interpretation": "If your second knuckle hits unyielding bedrock, root space is critically constrained; taproots like turnips and parsnips will distort into dwarfed pancakes unless mounded."
+        },
+        {
+          "test_name": "Bedrock Fracture Tracing",
+          "procedure": "Scrape back dirt with a curved slate edge to reveal bedrock seam lines.",
+          "interpretation": "Finding finger-wide cracks allows deep-rooting plants to anchor into the mountain; solid seamless slab requires raised cribbing."
+        },
+        {
+          "test_name": "Midday Bedrock Conduction Check",
+          "procedure": "Rest the back of your bare hand directly against the bedrock floor beneath the shallow earth at solar noon.",
+          "interpretation": "Warm stone indicates a valuable solar heat sponge; cold stone indicates underlying permafrost or deep mountain frost that will chill roots from below."
+        },
+        {
+          "test_name": "Sheet Wash Slip Test",
+          "procedure": "Pour a drinking cup of water onto the shallow dirt layer on a slight slope.",
+          "interpretation": "If the soil sheet glides over the slick bedrock like butter on a hot skillet, the soil will wash off the terrace edge in the first heavy mountain deluge."
+        },
+        {
+          "test_name": "Moisture Ring Edge Scan",
+          "procedure": "Inspect the fringe of the soil pocket two hours after sunrise.",
+          "interpretation": "A shrinking damp dark circle confirms moisture is evaporating from both top wind and bottom rock heat rapidly."
+        }
+      ],
+      "dominant_failures": [
+        "Catastrophic root restriction causing dwarfed, deformed harvests",
+        "Terrace sheet-erosion where whole soil blankets slide off smooth bedrock",
+        "Extreme midday heat cooking shallow roots followed by freezing night chill from below",
+        "Total inability to store reserve moisture during dry spells"
+      ],
+      "remediation_steps": [
+        {
+          "step_number": 1,
+          "action": "Drystone Retaining Crib Construction",
+          "materials": "Flat mountain stones stacked without mortar along bed margins",
+          "amount": "Build walls two hand-spans high around the bedrock perimeter",
+          "purpose": "Creates a boxed container that holds soil in place and prevents sheet erosion down the mountain."
+        },
+        {
+          "step_number": 2,
+          "action": "Inverted Turfs and Rotting Log Base (Hugelkultur Step)",
+          "materials": "Rotten spongy birch/pine branch punk and upside-down grassy pasture turf",
+          "amount": "Layer one hand-span thick directly against the bedrock floor",
+          "purpose": "Creates a deep moisture reservoir and thermal cushion separating roots from cold bedrock."
+        },
+        {
+          "step_number": 3,
+          "action": "Heavy Soil and Silt Mounding",
+          "materials": "Rich silt scooped from stream pools blended with dark terrace loam",
+          "amount": "Six bucketfuls added per pace to double the natural soil depth",
+          "purpose": "Provides adequate vertical depth for hardy tubers and winter greens."
+        },
+        {
+          "step_number": 4,
+          "action": "Deep Heather and Straw Surface Mulch",
+          "materials": "Coarse dried mountain heather twigs and wild meadow straw",
+          "amount": "A protective blanket three finger knuckles thick",
+          "purpose": "Shields shallow roots from midday solar baking and preserves fragile moisture reserves."
+        }
+      ]
+    },
+    {
+      "id": "peaty_boggy_alpine_hollow",
+      "name": "Peaty Boggy Alpine Hollow",
+      "description": "Saturated, spongy, coal-black organic soil resting against the cold rear retaining wall of the terrace where seepage and snowmelt gather. Heavy with fibrous moss, cool and squelchy, smelling of swamp iron, and oozing cold water underfoot.",
+      "hand_tests": [
+        {
+          "test_name": "Two-Hand Fist Squeeze Squelch Test",
+          "procedure": "Scoop a double handful of dark soil and compress with all your upper body strength over a bucket.",
+          "interpretation": "If cold water streams between your fingers in steady rivulets filling half a cup, the soil is dangerously waterlogged and will rot seeds within two nights."
+        },
+        {
+          "test_name": "Subsoil Stick Probe Depth",
+          "procedure": "Push a sharpened hazel rod into the hollow using only palm pressure.",
+          "interpretation": "If the rod slides effortlessly past your elbow before meeting resistance, you have a deep peat reservoir rich in organic carbon that only needs drainage and warming."
+        },
+        {
+          "test_name": "Cold Iron Sheen Check",
+          "procedure": "Examine the water standing in fresh boot prints under angled sunlight.",
+          "interpretation": "An oily, iridescent biological film with rusty orange sediment reveals stagnant iron-rich groundwater that must be flushed with moving ditches."
+        },
+        {
+          "test_name": "Crumb Texture Ball Bounce",
+          "procedure": "Mold a ball of damp peat, drop it onto a flat stone from knee height.",
+          "interpretation": "If it bounces or deforms into a rubbery puck without crumbling, the organic matter is unrotted and needs aeration and hearth ash to awaken biological decay."
+        },
+        {
+          "test_name": "Ice Needle Core Check",
+          "procedure": "Dig a hand-depth slice at early morning and inspect the soil profile.",
+          "interpretation": "Hidden vertical needles of underground ice indicate deep ground frost that will remain locked in wet peat long into the growing season unless drained."
+        }
+      ],
+      "dominant_failures": [
+        "Chronic oxygen starvation and root rot from standing snowmelt seepage",
+        "Deep cold retention acting as an underground refrigerator that stalls germination",
+        "Sour organic acidity locking up soil phosphorus",
+        "Severe frost heaving throwing young plants out of the ground"
+      ],
+      "remediation_steps": [
+        {
+          "step_number": 1,
+          "action": "French Stone Drainage Trench Cutting",
+          "materials": "Fist-sized scree rocks and flat capping slates",
+          "amount": "One drainage trench one forearm deep cut along the rear wall to an outlet",
+          "purpose": "Draws standing mountain seepage away from beds and drops the subterranean water level."
+        },
+        {
+          "step_number": 2,
+          "action": "Raised Lazy-Bed Ridge Mounding",
+          "materials": "Peat excavated from flanking ditches flipped on top of central beds",
+          "amount": "Mound beds knee-high above the surrounding terrace floor",
+          "purpose": "Lifts the root zone into warmer ambient air and provides free gravitational drainage."
+        },
+        {
+          "step_number": 3,
+          "action": "Heavy Mineral Hearth Ash and Crushed Slate Dressing",
+          "materials": "Dry grey hearth ash and finely crushed mountain slate meal",
+          "amount": "Four generous handfuls worked into each pace of raised ridge",
+          "purpose": "Sweetens sour peat acids and adds heavy mineral grit to stabilize the light spongy organic mass."
+        },
+        {
+          "step_number": 4,
+          "action": "Sun-Bake Exposure Turning",
+          "materials": "Wooden digging paddle or trench shovel",
+          "amount": "Turn over big peat clods to face midday sun across the whole terrace",
+          "purpose": "Lets sun and mountain wind dry excess moisture and warm the cold core before seeding."
+        }
+      ]
+    }
+  ],
+  "terrain_conditions": [
+    {
+      "id": "intact_drystone_terrace",
+      "condition": "Intact Drystone Terrace",
+      "assessment_method": "Visually inspect the face wall from the terrace below: the stones should lean back slightly into the mountain slope (a healthy inward batter). Place your shoulder against the upper capstones and shove firmly with full body weight; the wall should remain rigid without rocking, rattling, or shifting. Check the toe of the wall for loose bulging stones or squelching wet mud.",
+      "risks": [
+        "Capstones loosening during severe freeze-thaw cycles",
+        "Hydrostatic water pressure building behind the wall after torrential mountain cloudbursts",
+        "Voles and small rodents burrowing through gravel backfill and nesting behind stones"
+      ],
+      "fixes": [
+        {
+          "action": "Weep Hole Clearance",
+          "method": "Probe the lowest stone gaps with a long, flexible willow wand to dislodge collected silt, fallen leaves, and moss.",
+          "materials": "Stiff willow or hazel probe, fingers",
+          "everyday_amount": "Clear one weep gap every two paces along the wall base"
+        },
+        {
+          "action": "Capstone Re-wedging and Chinking",
+          "method": "Drive thin triangular slivers of hard slate into loose joints with a smooth river cobblestone mallet.",
+          "materials": "Tapered slate shims, heavy cobblestone",
+          "everyday_amount": "Two to three slate wedges driven per rattling capstone"
+        },
+        {
+          "action": "Rear Soil Lip Sealing",
+          "method": "Tamp down a ridge of dense clay loam directly behind the wall lip to direct surface runoff away from the immediate face.",
+          "materials": "Firm clay soil, boot heels",
+          "everyday_amount": "A raised lip one palm wide along the entire wall rim"
+        }
+      ]
+    },
+    {
+      "id": "bulging_damaged_retaining_wall",
+      "condition": "Bulging Damaged Retaining Wall",
+      "assessment_method": "Crouch at one corner of the terrace and sight your eye along the front stone edge: a pregnant belly outward indicates internal collapse. Press your palm against the protruding bulge and listen for grinding grit sounds. Check if gaps between stones are wide enough to swallow your entire hand.",
+      "risks": [
+        "Catastrophic sudden blowout during heavy rain, losing the entire vegetable bed down the cliff",
+        "Massive loss of terrace topsoil and root structures in a single mud-stone slide",
+        "Severe physical injury if the terrace floor collapses beneath the gardener's footing"
+      ],
+      "fixes": [
+        {
+          "action": "Emergency Pressure Relief Trenching",
+          "method": "Dig an exploratory trench behind the bulging face to relieve soil weight pressing against weakened stones.",
+          "materials": "Sharpened wooden digging stick, bucket",
+          "everyday_amount": "A trench one hand-depth wide and two hand-spans deep cut one pace back from the wall"
+        },
+        {
+          "action": "Sectional Deconstruction and Re-battering",
+          "method": "Dismantle the bulging stone pocket down to firm foundation rock, then rebuild with stones angled inward toward the hillside at a slope matching the slant of your forearm.",
+          "materials": "Existing terrace stones, angular backup rubble, gravel",
+          "everyday_amount": "Rebuild one arm's length span at a time until the bulge is flattened"
+        },
+        {
+          "action": "Gravel Drainage Backfill Placement",
+          "method": "Pack clean angular mountain gravel directly behind the rebuilt stones instead of rich wet soil.",
+          "materials": "Coarse scree gravel free of mud",
+          "everyday_amount": "Three bucketfuls of gravel packed behind each rebuilt stone course"
+        }
+      ]
+    },
+    {
+      "id": "steep_eroding_terrace_lip",
+      "condition": "Steep Eroding Terrace Lip",
+      "assessment_method": "Walk the outer edge where the terrace drops off to the slope below: observe crumbling soil dribbles, exposed roots of wild grass, and undercut turf ledges. Stomp your boot heel along the edge; if the lip shears off and slides downward, the edge is actively collapsing.",
+      "risks": [
+        "Continuous loss of bed width, shrinking planting space moon by moon",
+        "Dry winds striking exposed plant root crowns from the cliff edge",
+        "Cold wind tunnels swirling up the slope face and freezing outer crop rows"
+      ],
+      "fixes": [
+        {
+          "action": "Living Willow Wattle Fencing",
+          "method": "Drive stout fire-hardened hardwood stakes deep into the lip edge and weave long green willow wands tightly between them.",
+          "materials": "Thumb-thick hardwood stakes, flexible willow or hazel withes",
+          "everyday_amount": "One stake every two paces, woven four finger-breadths high with withes"
+        },
+        {
+          "action": "Riprap Stone Buttressing",
+          "method": "Stack heavy, flat mountain boulders in a stepped stair pattern along the slope base beneath the crumbling rim.",
+          "materials": "Heavy two-hand mountain stones",
+          "everyday_amount": "A double course of stones along the vulnerable edge"
+        },
+        {
+          "action": "Deep-Rooting Wild Sod Blanket Staking",
+          "method": "Cut thick mountain turf squares from outside the beds and peg them to the eroding lip with sharpened wooden pegs.",
+          "materials": "Dense alpine sod, split hazel pegs",
+          "everyday_amount": "Two peg-anchored sods per pace along the rim"
+        }
+      ]
+    },
+    {
+      "id": "gentle_sloping_interior_bed",
+      "condition": "Gentle Sloping Interior Bed",
+      "assessment_method": "Place a smooth round river pebble on bare moist ground midway across the terrace and watch if it rolls downhill. Pour a half-bucket of water and observe the flow: if it cuts tiny braided channels in the topsoil toward the front wall, the bed is not level and topsoil will slowly wash forward.",
+      "risks": [
+        "Washing of light humus and seeds toward the front lip during rain",
+        "Dry upper zone near the back cliff while the front edge becomes waterlogged",
+        "Uneven seedling emergence and erratic crop growth across the width of the terrace"
+      ],
+      "fixes": [
+        {
+          "action": "Cross-Slope Dead-Furrow Ridging",
+          "method": "Hoe the soil into lateral ridges running strictly across the slope perpendicular to the pebble's rolling path.",
+          "materials": "Hand hoe or flat digging slate",
+          "everyday_amount": "One ridge one hand's depth tall every two paces"
+        },
+        {
+          "action": "Downhill Soil Pull-Back",
+          "method": "Scoop soil that has accumulated against the front retaining wall and transport it to the dry rear base.",
+          "materials": "Carrying basket or sturdy bucket",
+          "everyday_amount": "Four bucketfuls carried backward per pace of terrace"
+        },
+        {
+          "action": "Rotting Log Terracette Steps",
+          "method": "Stake fallen conifer poles horizontally across the bed to create mini-terraces inside the main terrace.",
+          "materials": "Arm-thick rotting pine or birch poles, wooden retaining stakes",
+          "everyday_amount": "One pole pinned every three paces down the terrace bed"
+        }
+      ]
+    },
+    {
+      "id": "sunken_terrace_frost_pocket",
+      "condition": "Sunken Terrace Frost Pocket",
+      "assessment_method": "Stand on the terrace at twilight on a clear calm evening. If your breath fogs heavily at your waist here while staying invisible on the upper terraces, or if you feel a palpable chilling draught pooling around your shins like stepping into cold stream water, this terrace is a sunken frost pocket.",
+      "risks": [
+        "Killing frosts striking two to three weeks earlier in autumn and lingering later in spring",
+        "Freezing stagnant air settling over foliage while upper terraces escape untouched",
+        "High humidity combined with sub-freezing air causing thick killing rime frost"
+      ],
+      "fixes": [
+        {
+          "action": "Cold Air Spillway Gate Cutting",
+          "method": "Remove the top two courses of drystone wall at the lowest corner of the terrace to create an open exit gap where cold air can pour out like draining water.",
+          "materials": "Hands, pry stick",
+          "everyday_amount": "A breach two paces wide lowered by two hand-spans in the outer lip"
+        },
+        {
+          "action": "Cold Air Deflection Brush Baffle",
+          "method": "Build an angled dense brushwood hedge at the uphill terrace entrance to divert downward-draining mountain air around the bed rather than into it.",
+          "materials": "Dense spruce branches, interlocking juniper boughs",
+          "everyday_amount": "A barrier shoulder-high angled at forty-five paces toward the side gully"
+        },
+        {
+          "action": "Central Slate Heat Cairn Erection",
+          "method": "Stack dark, flat slate slabs into a knee-high pyramid in the center of the sunken bed to store midday solar heat and warm twilight air.",
+          "materials": "Dark heat-absorbing slate boulders",
+          "everyday_amount": "One cairn built with as many stones as you can carry in ten trips"
+        }
+      ]
+    },
+    {
+      "id": "wind_swept_outer_ridge_bench",
+      "condition": "Wind-Swept Outer Ridge Bench",
+      "assessment_method": "Tie a light strip of cloth or dry grass blade to a chest-high stake. If it snaps violently and stays horizontal even when lower terraces seem calm, or if soil on the windward side shows scoured stone ripples with all fine leaf litter blown away, this bench is heavily wind-scoured.",
+      "risks": [
+        "Wind chill dropping plant tissue warmth far below ambient air temperatures",
+        "Severe physical stem snapping and leaf shredding during mountain gales",
+        "Extreme moisture evaporation desiccating seedlings even when soil feels damp below"
+      ],
+      "fixes": [
+        {
+          "action": "Living Woven Juniper Windbreak Hedge",
+          "method": "Transplant stunted, tough mountain juniper and dwarf willow along the windward terrace edge and weave them with dead brush.",
+          "materials": "Wild dwarf conifer brush, hazel stakes",
+          "everyday_amount": "A dense hedge waist-high along the entire windward rim"
+        },
+        {
+          "action": "Sunken Trench Planting Micro-Beds",
+          "method": "Excavate planting furrows one hand-depth deep below grade, throwing the excavated soil into a protective windward ridge.",
+          "materials": "Digging paddle, hands",
+          "everyday_amount": "Trench one hand's depth deep with a knee-high windward berm"
+        },
+        {
+          "action": "Stone Backer Cloche Alignment",
+          "method": "Set tall, broad slate slabs vertically on edge on the windward side of each individual seedling mound.",
+          "materials": "Flat slate shingles the size of a dinner plate",
+          "everyday_amount": "One shield stone propped behind each crop cluster"
+        }
+      ]
+    },
+    {
+      "id": "seepage_logged_back_wall_bench",
+      "condition": "Seepage-Logged Back Wall Bench",
+      "assessment_method": "Inspect the point where the terrace soil meets the vertical bedrock mountain face. Look for green liverworts, spongy bog moss, and wet stone weeping dark trickles even after several rain-free days. Push your finger into the soil near the rock; if water squirts out around your fingernail, the bench is seepage-logged.",
+      "risks": [
+        "Roots rotting in freezing, stagnant groundwater against the rock face",
+        "Bed turning into a solid sheet of ground ice when the first hard autumn freeze strikes",
+        "Anaerobic souring making the inner half of the terrace toxic to vegetable crops"
+      ],
+      "fixes": [
+        {
+          "action": "Bedrock Interceptor Stone Gutter",
+          "method": "Chisel and dig a narrow stone-lined trench right along the joint between soil and rock cliff to intercept weeping water before it enters the bed.",
+          "materials": "Pointed stone chisel, hammer stone, flat gutter slates",
+          "everyday_amount": "A gutter one hand-span wide running the full length of the cliff joint"
+        },
+        {
+          "action": "Underground Gravel Flume to Terrace Outlet",
+          "method": "Channel intercepted water through a buried stone-lined channel across the terrace to spill safely over the outer wall.",
+          "materials": "Flat capping slates, clean river cobbles",
+          "everyday_amount": "One cross-flume packed with two bucketfuls of cobbles per pace"
+        },
+        {
+          "action": "Raised Cradle Bed Separation",
+          "method": "Erect a raised log retaining barrier one pace out from the weeping cliff and plant crops exclusively in the elevated soil bed.",
+          "materials": "Split pine logs, stout stakes, dry terrace loam",
+          "everyday_amount": "A raised bed knee-high filled with four bucketfuls of soil per pace"
+        }
+      ]
+    }
+  ],
+  "frost_protection": [
+    {
+      "id": "dry_stone_thermal_battery_mounding",
+      "method_name": "Dry Stone Thermal Battery Mounding",
+      "materials_needed": "Dark, heavy mountain slate slabs, dark river cobblestones, dry moss for chinking",
+      "procedure": [
+        "1. Collect dark, dense river cobbles or slate fragments the size of your two fists from sunny stream banks.",
+        "2. Arrange three to four stones in a tight ring encircling each plant's stem, resting them two fingers away from the tender stalk.",
+        "3. Tilt the stones so their widest, flattest face angles upward toward the noon sun to maximize daytime heat absorption.",
+        "4. Chink the tiny gaps between stones with dry fluffy moss to trap warm air pockets next to the stem.",
+        "5. Leave stones in place throughout the season; they store daytime heat and radiate warmth directly into the root collar all night long."
+      ],
+      "temperature_benefit": "Prevents stem-freezing crust from forming at ground level and maintains warmth around the root collar comparable to the warmth of a sun-soaked afternoon rock well past the midnight hour.",
+      "when_to_apply": "At initial planting time or whenever clear, windless starry nights threaten early or late frosts.",
+      "when_to_remove": "Permanent installation throughout the mountain season; adjust stones outward as plant stems expand.",
+      "warnings": [
+        "Do not allow heavy stones to lean directly against tender herbaceous stems, as abrasive winds can chafe and sever the stalk.",
+        "Ensure stones are dark-colored; pale white quartz reflects heat away instead of absorbing it."
+      ]
+    },
+    {
+      "id": "conifer_bough_thatched_blanket",
+      "method_name": "Conifer Bough Thatched Blanket",
+      "materials_needed": "Dense, fresh green boughs of spruce, fir, or pine gathered from lower mountain gullies",
+      "procedure": [
+        "1. Cut branch fans as long as your forearm from healthy conifer trees using a sharp hand blade.",
+        "2. Lay the boughs across the vegetable beds like overlapping roof shingles, with cut stem ends pointing into the wind.",
+        "3. Ensure the needles arch convexly over the seedlings, creating a protected tent of still dead air one hand-span above leaves.",
+        "4. Weight down the edges of outer boughs with heavy stones so mountain gales do not fling the blanket off the terrace.",
+        "5. Double the thickness over tender crops when the sky turns crystal clear and evening stars sparkle with brittle brightness."
+      ],
+      "temperature_benefit": "Buffers against biting sub-freezing winds and stops crystal hoarfrost needles from settling on soft leaf surfaces, saving foliage from black frost bite.",
+      "when_to_apply": "Apply two hours before sundown when evening air turns crisp and your breath begins to show distinctly.",
+      "when_to_remove": "Lift gently in mid-morning once the sun has struck the terrace and the frost on the needles has fully melted into water droplets.",
+      "warnings": [
+        "Never leave heavy needle blankets on during sunny days; trapped heat and blocked light will cause seedlings to grow pale, weak, and leggy.",
+        "Do not drop boughs directly onto brittle, frozen plants; place them gently to avoid snapping frozen leaf stems."
+      ]
+    },
+    {
+      "id": "dried_mountain_grass_stooking",
+      "method_name": "Dried Mountain Grass Stooking",
+      "materials_needed": "Tall dried mountain rye grass, sedge straw, flexible willow twigs or bark cordage",
+      "procedure": [
+        "1. Harvest armfuls of long, cured mountain grasses from dry cliff benches during late summer.",
+        "2. Tie the grass into neat sheaves as thick as your thigh using twisted bark cord or willow withes.",
+        "3. Stand three sheaves together over an individual tall plant (like kale or broad bean) in a cone-shaped mini-teepee.",
+        "4. Spread the skirt of the grass sheaves out along the ground and pin it with fist-sized rocks to stop draft infiltration.",
+        "5. Leave a two-finger vent hole at the very apex to let excess daytime moisture escape while retaining warmth."
+      ],
+      "temperature_benefit": "Provides thick, hollow-stem dead-air insulation that shields delicate plants from severe hard crust frosts and freezing sleet.",
+      "when_to_apply": "In autumn when frost coats the grass every morning, or in early spring over newly emerged shoots.",
+      "when_to_remove": "Open the south-facing side of the teepee during warm sunny midday hours; close and re-pin at sunset.",
+      "warnings": [
+        "If grass becomes soaking wet and freezes into a solid icy sheet, its insulation is ruined; replace with dry sheaves immediately.",
+        "Watch for mice and mountain voles making winter nests inside the warm grass cones and chewing plant crowns."
+      ]
+    },
+    {
+      "id": "earth_trench_sunken_cloche_with_flat_slate",
+      "method_name": "Earth Trench Sunken Cloche with Flat Slate",
+      "materials_needed": "Thin, broad mountain slate slabs, wooden spacer twigs, dry earth",
+      "procedure": [
+        "1. Dig planting trenches one hand's depth below the terrace surface and plant seeds or seedlings along the trench floor.",
+        "2. Rest flat slate slabs across the top of the trench at twilight, bridging from edge to edge like a stone roof.",
+        "3. Prop one end of each slate slab up with a finger-thick twig to allow gentle air exchange and avoid suffocating plants.",
+        "4. Pack loose soil along the windward side of the stones to seal against piercing mountain wind drafts.",
+        "5. Remove or slide back the slates the next morning once the ridge shadow recedes and direct sun hits the trench."
+      ],
+      "temperature_benefit": "Traps heat radiated upward from deep terrace soil and stone walls, raising microclimate warmth enough to stop morning frostbite on tender leaves.",
+      "when_to_apply": "Every evening during the early unpredictable spring planting window and late autumn harvest push.",
+      "when_to_remove": "Slide open when the morning sun warms your bare face; close again two hours before the ridge shadow falls.",
+      "warnings": [
+        "Slates become searing hot if left covering trenches under unbroken midday sun, effectively baking and stewing seedlings.",
+        "Ensure slate slabs are thick enough not to shatter under the weight of sudden night mountain hail or early snowfall."
+      ]
+    },
+    {
+      "id": "inverted_woven_wicker_bell_covers",
+      "method_name": "Inverted Woven Wicker Bell Covers",
+      "materials_needed": "Woven willow or hazel dome baskets, dried moss, shredded bark liner",
+      "procedure": [
+        "1. Weave flexible willow wands into hemispherical dome baskets the size of an upturned cooking kettle.",
+        "2. Interweave a two-finger layer of dry hanging tree moss (old man's beard) or dry sedge between the wicker ribs.",
+        "3. Invert the bell basket over individual tender plants before nightfall.",
+        "4. Press the rim two fingers deep into loose earth and place a heavy cobble stone on top of the dome to secure against wind.",
+        "5. Stack baskets in dry shelter during warm sunny weather to keep the moss lining crisp and dry."
+      ],
+      "temperature_benefit": "Provides durable, wind-impermeable protection that wards off sudden mountain flurries and moderate crusting frosts.",
+      "when_to_apply": "Place over young transplants on any evening when cloudless skies and dropping twilight indicate a freeze.",
+      "when_to_remove": "Lift off as soon as morning frost has vanished from the surrounding weeds.",
+      "warnings": [
+        "Do not allow moss filling to become saturated with rain; wet moss freezes into an icy dome that chills the plant inside.",
+        "Make sure the basket is wide enough that leaves do not press against the outer woven wall where frost conducts directly."
+      ]
+    },
+    {
+      "id": "smudge_smoke_drift_heaps",
+      "method_name": "Smudge Smoke Drift Heaps",
+      "materials_needed": "Dry kindling, damp peat, rotten punk wood, green conifer needles, old damp moss",
+      "procedure": [
+        "1. Build a small dry wood base fire on a flat slate at the windward corner of the terrace where cold night drafts enter.",
+        "2. Once small bright coals form, smother the flames with two armfuls of damp rotten punk wood and wet moss.",
+        "3. Top the pile with fresh green spruce boughs to produce a thick, heavy, low-crawling white smoke blanket.",
+        "4. Ensure the smoke drifts gently across the surface of the beds, hanging like a dense river fog over the vegetation.",
+        "5. Tend the smoldering mound through the coldest hours between the third watch of night and daybreak."
+      ],
+      "temperature_benefit": "Creates an artificial cloud blanket that stops radiant heat from escaping into the open mountain night sky, preventing leaf temperature from dipping to the freeze point.",
+      "when_to_apply": "During calm, dead-still, bone-chilling inversion nights when frost is imminent and winds are light.",
+      "when_to_remove": "Allow the smoke heap to burn out into ash once direct sunlight reaches the terrace floor.",
+      "warnings": [
+        "Never use roaring open flames near dry mulch or wooden terrace stakes; keep fire contained to damp smoldering coals.",
+        "Do not use on nights with raging mountain winds; strong gusts will disperse smoke instantly and waste fuel."
+      ]
+    },
+    {
+      "id": "evening_tepid_water_drench_mulch",
+      "method_name": "Evening Tepid Water Drench Mulch",
+      "materials_needed": "Sun-warmed water from terrace warming basins, deep straw or dried grass mulch, watering bucket",
+      "procedure": [
+        "1. Ensure deep straw or leaf mulch is packed around the base of plants, keeping leaves clean and elevated.",
+        "2. Fill buckets from the shallow slate sun-basin an hour before sundown while water is still comfortably warm to the touch.",
+        "3. Gently drench the soil and lower mulch layers around root zones, being careful not to wet the leaves themselves.",
+        "4. As the sun sets, the warm damp earth and mulch slowly release latent moisture heat throughout the dark hours.",
+        "5. The releasing steam creates a localized micro-climate of gentle warmth immediately beneath the crop foliage."
+      ],
+      "temperature_benefit": "Harnesses the high latent heat capacity of water to buffer soil temperatures, keeping ground above freezing throughout a moderate frost event.",
+      "when_to_apply": "On evenings when sudden cold air rolls off glaciers but daytime sun was bright enough to warm basin water.",
+      "when_to_remove": "No removal needed; allow moisture to nourish roots as normal during subsequent sunny days.",
+      "warnings": [
+        "Never use icy stream water straight from snowmelt runoff; cold shock combined with freezing air will kill plants outright.",
+        "Avoid wetting crop leaves late in the day; water droplets on foliage will freeze into ice lenses that rupture plant cells."
+      ]
+    },
+    {
+      "id": "earthen_berm_windbreak_tucking",
+      "method_name": "Earthen Berm Windbreak Tucking",
+      "materials_needed": "Moundable terrace loam, flat slate shingles, wooden tamping paddle",
+      "procedure": [
+        "1. Walk along planting rows and pull loose, crumbly soil up around plant stalks using a wooden paddle or both hands.",
+        "2. Hill earth up to the lowest green leaves, burying lower stems and dormant buds beneath insulating soil.",
+        "3. Smooth the side of the dirt berm with the flat of your palm so cold wind slides over rather than cutting into the mound.",
+        "4. Shingle the windward side of the earth mound with overlapping slate fragments for armor.",
+        "5. After the cold snap passes, gently pull back half the mounded earth to let sunlight warm the main stem again."
+      ],
+      "temperature_benefit": "Insulates vulnerable root collars and basal growth nodes within the thermal mass of the mountain earth, surviving hard freezes that burn top foliage.",
+      "when_to_apply": "In late autumn as crops reach final maturity, or before a forecast multi-day freezing storm.",
+      "when_to_remove": "In spring, pull back once danger of hard frost passes; for root crops, leave mounded until harvest.",
+      "warnings": [
+        "Do not smother the central growing heart of leafy brassicas; keep the very center bud open to the air.",
+        "Ensure earth used for hilling is friable and dry; heavy soaking wet mud will freeze into an unyielding block of ice around stems."
+      ]
+    }
+  ],
+  "crops": [
+    {
+      "id": "mountain_fingerling_potato",
+      "name": "Mountain Fingerling Potato",
+      "days_to_harvest_range": [
+        70,
+        90
+      ],
+      "cold_buffer_days": 14,
+      "frost_tolerance": "moderate_frost",
+      "soil_needs": "Loose, stone-sieved sandy loam enriched with rotted leaf duff and hearth ash; dislikes heavy sticky clay.",
+      "planting_depth": "One hand's depth deep into trench bottom",
+      "spacing": "One boot length between seed tubers, two paces between trench rows",
+      "growth_stages": [
+        {
+          "stage_name": "Sprout Emergence",
+          "duration_description": "About two hand-counts of days (10 to 14 days) after planting in warming earth",
+          "care_notes": "Watch for purple and green tips breaking soil; hill earth over them as soon as they reach two finger heights.",
+          "frost_handling": "Tender new sprouts will blacken under light frost; keep completely buried under soil until hard freezes pass."
+        },
+        {
+          "stage_name": "Haulm and Leaf Canopy Expansion",
+          "duration_description": "Three to four weeks of vigorous sun growth",
+          "care_notes": "Hill up soil twice more, creating broad ridges knee-high; dress with two handfuls of wood ash per pace.",
+          "frost_handling": "Top foliage tolerates light frost with minor leaf margin bronzing; cover with conifer boughs if frost threatens hard crust."
+        },
+        {
+          "stage_name": "Flowering and Tuber Swelling",
+          "duration_description": "Three to four weeks while white or violet blossoms show",
+          "care_notes": "Provide steady sun-warmed water; never let soil dry out completely or tubers will become knobby and cracked.",
+          "frost_handling": "Foliage handles moderate frosts; stones tucked around base protect subterranean tuber swelling."
+        },
+        {
+          "stage_name": "Vine Yellowing and Senescence",
+          "duration_description": "Two to three weeks as leaves wither and die back",
+          "care_notes": "Cease all watering to let potato skins cure and toughen inside the dry earth.",
+          "frost_handling": "Hard frost kills dead haulms completely, which actually improves storage skin toughness; tubers remain safe underground."
+        }
+      ],
+      "ripeness_signs": [
+        "Vines turn completely yellow, collapse flat against the soil, and wither to dry brown cords",
+        "Test tuber dug from the ridge edge has a firm skin that does not rub off under heavy thumb pressure",
+        "Tubers separate cleanly from stolon roots without tearing wet flesh"
+      ],
+      "harvest_method": "Plunge a smooth wooden digging paddle two finger-widths outside the ridge center, lift gently, and sift tubers from the crumbly soil with your fingers without piercing skin.",
+      "storage_notes": "Dry unwashed tubers on flat slate in the shade for one afternoon until surface dirt is powdery. Store in dark dry bins cushioned with dried bracken fern. Keep completely dark to prevent poisonous greening.",
+      "companion_plants": [
+        "broad_windsor_fava_bean",
+        "mountain_orach_greens",
+        "perennial_mountain_welsh_onion"
+      ],
+      "season_fit_logic": "Must be planted as soon as soil thaws to hand's depth. Because tubers cure underground, the crop can withstand an early autumn freeze that destroys the top vines without losing the caloric harvest."
+    },
+    {
+      "id": "purple_top_winter_turnip",
+      "name": "Purple Top Winter Turnip",
+      "days_to_harvest_range": [
+        45,
+        60
+      ],
+      "cold_buffer_days": 20,
+      "frost_tolerance": "hard_frost",
+      "soil_needs": "Thin stony loam or sandy scree with moderate leaf mould; tolerates low fertility and cool soil.",
+      "planting_depth": "One finger knuckle deep",
+      "spacing": "One hand span apart along rows, one boot length between rows",
+      "growth_stages": [
+        {
+          "stage_name": "Cotyledon and Taproot Shoot",
+          "duration_description": "Five to seven days after planting",
+          "care_notes": "Thin seedlings aggressively to one palm-width apart; crowded turnips produce only wiry strings.",
+          "frost_handling": "Tiny seedlings easily survive light ground frost with zero leaf scorch."
+        },
+        {
+          "stage_name": "Rosette Leafing",
+          "duration_description": "Two to three weeks of rapid leafy expansion",
+          "care_notes": "Harvest outer tender greens for survival salads, leaving the central heart intact.",
+          "frost_handling": "Foliage darkens and thrives in cold; light frosts trigger sugar accumulation."
+        },
+        {
+          "stage_name": "Globe Bulb Bulking",
+          "duration_description": "Two to three weeks while root shoulders push above soil",
+          "care_notes": "Dust wood ash around roots to deter root maggot flies; water with lukewarm stream water once a week.",
+          "frost_handling": "Shoulders exposed to freezing air should be hilled with loose soil or straw mulch."
+        }
+      ],
+      "ripeness_signs": [
+        "Purple-capped root shoulder pushes clearly above ground, measuring as wide as a clenched fist",
+        "Root feels rock-solid and heavy when gripped and squeezed between thumb and fingers",
+        "Lower foliage begins to develop a dull purple-bronze hue"
+      ],
+      "harvest_method": "Grip the base of the leaf stems firmly at ground level and pull straight upward with a slight twisting motion. Sever the greens two finger-widths above the crown with a sharp blade.",
+      "storage_notes": "Store firm roots in wooden boxes packed in dry sand or dry mountain sawdust in a frost-free shelter cellar. Do not wash roots before storing.",
+      "companion_plants": [
+        "mountain_orach_greens",
+        "dwarf_sugar_pod_pea",
+        "perennial_mountain_welsh_onion"
+      ],
+      "season_fit_logic": "One of the fastest survival roots available. Can be sown mid-season after early greens are eaten, or sown late for an autumn harvest because frost actually improves root sweetness."
+    },
+    {
+      "id": "siberian_curled_kale",
+      "name": "Siberian Curled Kale",
+      "days_to_harvest_range": [
+        50,
+        65
+      ],
+      "cold_buffer_days": 30,
+      "frost_tolerance": "hard_frost",
+      "soil_needs": "Stony clay loam enriched with aged sheep or bird manure and wood ash; needs firm soil anchorage.",
+      "planting_depth": "Half a finger knuckle deep",
+      "spacing": "Two hand spans apart in all directions",
+      "growth_stages": [
+        {
+          "stage_name": "Seedling Anchor",
+          "duration_description": "Seven to ten days after sowing",
+          "care_notes": "Firm soil around tiny stems with thumbs so mountain winds do not spin and break them.",
+          "frost_handling": "Unbothered by freezing mornings; cells flex without bursting."
+        },
+        {
+          "stage_name": "Curled Leaf Canopy Building",
+          "duration_description": "Four weeks of steady vigorous branching",
+          "care_notes": "Begin harvesting lowest mature leaves when they reach the length of your hand; plant keeps growing from center.",
+          "frost_handling": "Tolerates repeated moderate frosts without any shelter."
+        },
+        {
+          "stage_name": "Overwintering Hardened Bush",
+          "duration_description": "Indefinite survival throughout late autumn and winter snow",
+          "care_notes": "Hill soil up to the lower leaf scars; bank with spruce boughs if snow is light and freezing wind is severe.",
+          "frost_handling": "Thrives through hard freezing crusts; starches convert to rich sugars, making leaves taste exceptionally sweet."
+        }
+      ],
+      "ripeness_signs": [
+        "Leaves reach the size of your open hand and develop tightly crinkled, ruffled edges",
+        "Leaf color turns deep blue-green with a frosty waxy bloom on the surface",
+        "Texture is crisp and snaps cleanly when bent backward"
+      ],
+      "harvest_method": "Snap off outer, lowest leaves by pressing down firmly at the base of the leaf stem. Never cut the central apical bud.",
+      "storage_notes": "Best left living directly in the mountain terrace bed under snow. Harvest fresh even from under snow cover. Picked leaves stay crisp for one moon if hung in cool damp root cellar.",
+      "companion_plants": [
+        "yellow_mountain_rutabaga",
+        "mountain_fingerling_potato",
+        "perennial_mountain_welsh_onion"
+      ],
+      "season_fit_logic": "The supreme mountain survival green. Does not care if season ends abruptly; it will stand through blizzards and continue providing living vitamins long after all other crops have ceased."
+    },
+    {
+      "id": "black_spanish_winter_radish",
+      "name": "Black Spanish Winter Radish",
+      "days_to_harvest_range": [
+        55,
+        70
+      ],
+      "cold_buffer_days": 21,
+      "frost_tolerance": "hard_frost",
+      "soil_needs": "Deep stone-cleared sandy loam with good drainage; excess manure causes splitting.",
+      "planting_depth": "One finger knuckle deep",
+      "spacing": "One palm width between plants, one boot length between rows",
+      "growth_stages": [
+        {
+          "stage_name": "Rapid Germination",
+          "duration_description": "Four to six days",
+          "care_notes": "Thin seedlings promptly; keep weeded of aggressive mountain sorrel.",
+          "frost_handling": "Impervious to early autumn light frost."
+        },
+        {
+          "stage_name": "Foliage and Root Anchor",
+          "duration_description": "Three weeks of rough, bristly leaf development",
+          "care_notes": "Keep soil evenly moist with warmed water so roots do not become woody or hollow.",
+          "frost_handling": "Rough leaves laugh off frost needles."
+        },
+        {
+          "stage_name": "Black Root Swelling",
+          "duration_description": "Three to four weeks of tuberous expansion",
+          "care_notes": "Hill earth over black root tops as they push out of the ground.",
+          "frost_handling": "Root withstands hard freezes while buried under earth and snow."
+        }
+      ],
+      "ripeness_signs": [
+        "Roots reach the size of a goose egg or large fist with rough, sooty-black charcoal skin",
+        "Flesh inside is brilliant solid white and dense as turnip",
+        "Pungent peppery aroma when skin is scratched with a fingernail"
+      ],
+      "harvest_method": "Ease a wooden lever stick beneath the bulb and lever upward while pulling the bristly foliage.",
+      "storage_notes": "Remove leaves by twisting. Pack unwashed black roots in wooden crates filled with dry moss or sand. Keeps sound for three to four moons without shriveling.",
+      "companion_plants": [
+        "siberian_curled_kale",
+        "dwarf_sugar_pod_pea",
+        "mountain_orach_greens"
+      ],
+      "season_fit_logic": "Sown after the summer solstice as days shorten. Fits into late mountain summer when warm-weather plants fail, thriving in declining autumn temperatures."
+    },
+    {
+      "id": "highland_naked_barley",
+      "name": "Highland Naked Barley",
+      "days_to_harvest_range": [
+        75,
+        95
+      ],
+      "cold_buffer_days": 15,
+      "frost_tolerance": "moderate_frost",
+      "soil_needs": "Poor, shallow stony terrace soil; requires good drainage and high midday light; tolerates cold gravel.",
+      "planting_depth": "Two finger knuckles deep",
+      "spacing": "Broadcast evenly so seeds sit two fingers apart, or sown in furrows one boot length apart",
+      "growth_stages": [
+        {
+          "stage_name": "Tillering and Grass Mat",
+          "duration_description": "Three to four weeks from sowing",
+          "care_notes": "Tamp soil firm with boots after sowing so seeds make hard contact; weed out broadleaf competitors.",
+          "frost_handling": "Dense young grass blades easily survive severe frosts and dusting snow."
+        },
+        {
+          "stage_name": "Stem Elongation (Jointing)",
+          "duration_description": "Three weeks as stalks shoot skyward to knee-height",
+          "care_notes": "Shield from violent terrace gales with edge wattling; requires sun to strengthen straw.",
+          "frost_handling": "Frost during jointing can cause kinked stems; keep windbreaks intact."
+        },
+        {
+          "stage_name": "Awn Emergence and Heading",
+          "duration_description": "Two to three weeks while long bristle awns wave in wind",
+          "care_notes": "Keep birds away using fluttering cloth strips or rattling slate clappers.",
+          "frost_handling": "Tolerates moderate frosts, but severe freeze during milky grain stage shrinks kernels."
+        },
+        {
+          "stage_name": "Grain Hardening and Golden Ripening",
+          "duration_description": "Two weeks of solar drying",
+          "care_notes": "Stop all water; stalks turn dry golden yellow.",
+          "frost_handling": "Fully hardened grain is completely immune to autumn frosts."
+        }
+      ],
+      "ripeness_signs": [
+        "Seed heads nod heavy and crook downward toward the earth",
+        "The entire stalk and awn bristles turn brittle, shining golden amber",
+        "A grain kernel bitten between front teeth cracks with a clean sharp snap rather than squishing doughy"
+      ],
+      "harvest_method": "Shear stalks one palm-width above ground using a curved hand sickle or sharp slate blade. Tie into tight sheaves and cure in sunny stooks for three days.",
+      "storage_notes": "Thresh kernels from heads by beating inside a leather sack. Sift out chaff in a stiff mountain breeze. Store clean, dry naked grains in tightly covered clay jars or dry timber bins.",
+      "companion_plants": [
+        "broad_windsor_fava_bean",
+        "dwarf_sugar_pod_pea"
+      ],
+      "season_fit_logic": "Naked barley threshes free of hull without milling equipment, providing direct human grain calories in very short, high-altitude alpine seasons where wheat or corn cannot mature."
+    },
+    {
+      "id": "hollow_crown_mountain_parsnip",
+      "name": "Hollow Crown Mountain Parsnip",
+      "days_to_harvest_range": [
+        100,
+        120
+      ],
+      "cold_buffer_days": 35,
+      "frost_tolerance": "hard_frost",
+      "soil_needs": "Deep, stone-picked pocket of rich loam; requires at least a forearm's depth of loose soil without stones.",
+      "planting_depth": "One finger knuckle deep",
+      "spacing": "One hand span apart along rows, one pace between rows",
+      "growth_stages": [
+        {
+          "stage_name": "Slow Germination and Emergence",
+          "duration_description": "Three weeks of patient waiting in cold ground",
+          "care_notes": "Mark rows with fast-germinating radish seeds so you do not accidentally hoe tiny parsnip threads.",
+          "frost_handling": "Tiny seedlings survive cold spring snow flurries without damage."
+        },
+        {
+          "stage_name": "Deep Taproot Drilling and Foliage Expansion",
+          "duration_description": "Six to eight weeks of steady summer growth",
+          "care_notes": "Keep weeded; water deeply with warmed water during rare dry mountain spells.",
+          "frost_handling": "Foliage handles all light and moderate summer frosts."
+        },
+        {
+          "stage_name": "Autumn Frost Sweetening",
+          "duration_description": "Four weeks of freezing autumn conditions",
+          "care_notes": "Allow hard frosts to hit foliage repeatedly; enzymes convert starches into rich winter sugar.",
+          "frost_handling": "Completely impervious to hard freezes; roots can freeze solid in soil and thaw unhurt."
+        }
+      ],
+      "ripeness_signs": [
+        "Feathery top foliage has been frosted down to limp, blackened yellow ribbons",
+        "Root crown at ground level is as broad as three fingers across with a distinct sunken hollow center",
+        "Sample root tastes distinctly sweet like wild honeycomb when chewed raw"
+      ],
+      "harvest_method": "Never pull by the tops, which will snap off. Dig a deep trench alongside the row with a digging paddle and gently lever the long taproots sideways out of the trench wall.",
+      "storage_notes": "Best stored directly in the ground where they grew, protected by a knee-high layer of dry mountain straw or bracken. Dig them as needed throughout winter whenever ground can be broken.",
+      "companion_plants": [
+        "highland_naked_barley",
+        "perennial_mountain_welsh_onion"
+      ],
+      "season_fit_logic": "Although long in days, parsnips can remain in the frozen ground until spring thaw, effectively extending the survival harvest through the entire dead winter period."
+    },
+    {
+      "id": "broad_windsor_fava_bean",
+      "name": "Broad Windsor Fava Bean",
+      "days_to_harvest_range": [
+        75,
+        90
+      ],
+      "cold_buffer_days": 18,
+      "frost_tolerance": "hard_frost",
+      "soil_needs": "Sturdy stony loam with clay binder and wood ash; fixes its own nitrogen; dislikes scorching heat.",
+      "planting_depth": "Two finger knuckles deep",
+      "spacing": "One boot length between plants, one pace between rows",
+      "growth_stages": [
+        {
+          "stage_name": "Sturdy Spear Emergence",
+          "duration_description": "Ten to fourteen days in cold ground",
+          "care_notes": "Thick square stems push effortlessly through gravelly soil crusts.",
+          "frost_handling": "Seedlings easily survive ground freezes that would kill common garden beans."
+        },
+        {
+          "stage_name": "Square Stem Branching and Black-and-White Bloom",
+          "duration_description": "Four to five weeks to waist height",
+          "care_notes": "Hill soil around stems to prevent wind toppling; pinch out the growing tips once six pod clusters form to deter black aphids.",
+          "frost_handling": "Flowers and stems withstand moderate frosts without dropping blooms."
+        },
+        {
+          "stage_name": "Pod Filling and Maturation",
+          "duration_description": "Three to four weeks as pods swell thick and fleshy",
+          "care_notes": "Stake rows with conifer poles tied with willow cordage against violent mountain downdrafts.",
+          "frost_handling": "Pods withstand hard freezes; thick white downy lining inside the pod cushions seeds from frost."
+        }
+      ],
+      "ripeness_signs": [
+        "Pods swell as thick as your thumb and point horizontally or nod downward from the stalk",
+        "Pod skin feels velvety and thick; seeds can be felt bulging distinctly through the pod wall",
+        "Seed scar (hilum) turns from pale green to dark brown or black inside the pod"
+      ],
+      "harvest_method": "Snap mature pods downward from the main stem with a sharp flick of the wrist. For dry storage, let pods blacken and dry crisp on the vine.",
+      "storage_notes": "Shelled green beans can be boiled immediately. For dry beans, shell dried pods and store hard seeds in sealed earthenware jars. Keeps viable for three years.",
+      "companion_plants": [
+        "mountain_fingerling_potato",
+        "highland_naked_barley",
+        "siberian_curled_kale"
+      ],
+      "season_fit_logic": "Can be planted into cold, thawing soil weeks before other crops. Fixes precious fertility into thin mountain soils while providing dense protein in cold climates."
+    },
+    {
+      "id": "perennial_mountain_welsh_onion",
+      "name": "Perennial Mountain Welsh Onion",
+      "days_to_harvest_range": [
+        60,
+        75
+      ],
+      "cold_buffer_days": 40,
+      "frost_tolerance": "hard_frost",
+      "soil_needs": "Any terrace soil including thin gravel and scree; thrives in crevices between stone walls.",
+      "planting_depth": "One finger knuckle deep",
+      "spacing": "Four fingers apart in dense clumps along terrace edges",
+      "growth_stages": [
+        {
+          "stage_name": "Hollow Quill Sprouting",
+          "duration_description": "Seven to ten days",
+          "care_notes": "Forms dense grass-like green quills that multiply from the base.",
+          "frost_handling": "Completely indifferent to ice and snow."
+        },
+        {
+          "stage_name": "Stem Thickening and Clump Dividing",
+          "duration_description": "Four to six weeks of steady clump expansion",
+          "care_notes": "Harvest individual outer stems with a knife; clump continues to divide and send up new shoots.",
+          "frost_handling": "Survives sub-freezing blizzards uninjured."
+        },
+        {
+          "stage_name": "Overwintering Hardened Crown",
+          "duration_description": "Permanent year-round survival",
+          "care_notes": "Divide overgrown clumps every two years and plant into stone wall joints.",
+          "frost_handling": "Roots and crowns freeze solid in rock crevices without suffering mortality."
+        }
+      ],
+      "ripeness_signs": [
+        "Hollow green stems reach the thickness of your index finger",
+        "Lower white shanks extend at least two finger widths above the soil",
+        "Strong, sharp, appetizing allium aroma released upon pinching"
+      ],
+      "harvest_method": "Slice green stems one finger knuckle above the ground to allow instant re-sprouting, or pull entire clustered stems from the side of the clump.",
+      "storage_notes": "Best harvested fresh daily from living clumps even in winter by sweeping snow aside. Stems can also be chopped and dried on sunny slate for survival soup seasoning.",
+      "companion_plants": [
+        "siberian_curled_kale",
+        "mountain_fingerling_potato",
+        "purple_top_winter_turnip"
+      ],
+      "season_fit_logic": "Perennial and near-indestructible. Fills the hunger gap in earliest spring before any annual seed has germinated, growing as soon as the snow melts back a finger's width."
+    },
+    {
+      "id": "yellow_mountain_rutabaga",
+      "name": "Yellow Mountain Rutabaga",
+      "days_to_harvest_range": [
+        80,
+        100
+      ],
+      "cold_buffer_days": 28,
+      "frost_tolerance": "hard_frost",
+      "soil_needs": "Firm stony loam with good moisture holding; requires wood ash for dense, sweet flesh.",
+      "planting_depth": "Half a finger knuckle deep",
+      "spacing": "One boot length apart, two boot lengths between rows",
+      "growth_stages": [
+        {
+          "stage_name": "Blue-Green Seedling Establishment",
+          "duration_description": "Ten days to establish sturdy waxy leaves",
+          "care_notes": "Thin to one boot length spacing; water with sun-warmed water.",
+          "frost_handling": "Seedlings withstand frost without shelter."
+        },
+        {
+          "stage_name": "Crown and Foliage Development",
+          "duration_description": "Five weeks of vigorous waxy blue leaf growth",
+          "care_notes": "Dust with hearth ash; weeds cannot compete once canopy closes.",
+          "frost_handling": "Foliage remains upright through repeated moderate freezes."
+        },
+        {
+          "stage_name": "Dense Golden Root Swelling",
+          "duration_description": "Four to five weeks as roots swell into dense bowling-ball globes",
+          "care_notes": "Hill earth around bulging root shoulders before killing freezes.",
+          "frost_handling": "Hard autumn frosts dramatically enhance rich buttery sweetness."
+        }
+      ],
+      "ripeness_signs": [
+        "Roots swell larger than two clenched fists together",
+        "Shoulders develop a rich purple-bronze crest with creamy golden-yellow belly",
+        "Crown neck shows distinctive ridged leaf scars"
+      ],
+      "harvest_method": "Lever the massive root out with a stout wooden pry bar. Slice off foliage two fingers above the crown, leaving the root tap intact.",
+      "storage_notes": "Store in cold dry root cellar buried in dry sand or dry sphagnum moss. Rutabagas store longer than turnips, remaining rock-solid and edible until the following summer.",
+      "companion_plants": [
+        "siberian_curled_kale",
+        "broad_windsor_fava_bean"
+      ],
+      "season_fit_logic": "Essential winter staple root. Higher caloric density and better keeping qualities than turnips, making it the premier survival starch for long frozen winters."
+    },
+    {
+      "id": "hardy_winter_cereal_rye",
+      "name": "Hardy Winter Cereal Rye",
+      "days_to_harvest_range": [
+        80,
+        110
+      ],
+      "cold_buffer_days": 35,
+      "frost_tolerance": "hard_frost",
+      "soil_needs": "The poorest, rockiest, most acidic terrace scree; thrives where barley and wheat starve.",
+      "planting_depth": "Two finger knuckles deep",
+      "spacing": "Broadcast generously, roughly two fingers between seeds",
+      "growth_stages": [
+        {
+          "stage_name": "Autumn Tillering Mat",
+          "duration_description": "Three to four weeks of cold autumn growth",
+          "care_notes": "Forms a dense green turf that locks thin soil against winter wind erosion.",
+          "frost_handling": "Will actively grow at near-freezing temperatures where other plants go dormant."
+        },
+        {
+          "stage_name": "Winter Stasis",
+          "duration_description": "Entire duration of frozen winter beneath snow",
+          "care_notes": "Needs no care; roots hold the terrace bed together.",
+          "frost_handling": "Immune to hard freezing; survives being entombed in solid ice."
+        },
+        {
+          "stage_name": "Spring Explosive Shooting and Heading",
+          "duration_description": "Five to six weeks after spring thaw",
+          "care_notes": "Shoots up taller than a person's chest; produces heavy grain heads and valuable long straw.",
+          "frost_handling": "Spring frosts do not slow its aggressive ascent."
+        }
+      ],
+      "ripeness_signs": [
+        "Straw turns silver-grey and brittle",
+        "Grain heads droop downward sharply",
+        "Hard, slender blue-grey kernels snap clean between fingernails"
+      ],
+      "harvest_method": "Reap with sickle at knee height. Tie into bundles and cure in sunny shelters.",
+      "storage_notes": "Thresh kernels on a clean tarp; winnow in wind. Store grain in dry vermin-proof bins. Long tough straw is kept for thatch, mattress stuffing, and frost protection blankets.",
+      "companion_plants": [
+        "broad_windsor_fava_bean",
+        "hollow_crown_mountain_parsnip"
+      ],
+      "season_fit_logic": "Can be sown in late autumn after all other crops are harvested to protect terrace soil through winter and yield early summer grain and valuable insulating straw."
+    },
+    {
+      "id": "mountain_orach_greens",
+      "name": "Mountain Orach (Mountain Spinach)",
+      "days_to_harvest_range": [
+        35,
+        50
+      ],
+      "cold_buffer_days": 14,
+      "frost_tolerance": "moderate_frost",
+      "soil_needs": "Tolerates poor, salty, or alkaline scree; grows well in thin terrace pockets.",
+      "planting_depth": "Half a finger knuckle deep",
+      "spacing": "One palm width apart, one boot length between rows",
+      "growth_stages": [
+        {
+          "stage_name": "Fast Emergence",
+          "duration_description": "Four to six days",
+          "care_notes": "Thin seedlings early; eat thinnings as tender micro-greens.",
+          "frost_handling": "Handles frosty dawns with zero damage."
+        },
+        {
+          "stage_name": "Arrowhead Leaf Branching",
+          "duration_description": "Three weeks of tender leafy production",
+          "care_notes": "Pinch flower buds to prolong succulent leaf growth; water with sun-warmed runoff.",
+          "frost_handling": "Foliage withstands moderate frosts without turning mushy."
+        }
+      ],
+      "ripeness_signs": [
+        "Leaves expand to the size of a woman's palm, succulent and arrowhead-shaped",
+        "Color is vivid ruby-red or deep matte green with a frosted dusty undersurface",
+        "Leaves feel thick, crisp, and salty-sweet to the tongue"
+      ],
+      "harvest_method": "Pinch individual leaves from stems, or cut the top hand-length of the stalk to encourage bushy side shoots.",
+      "storage_notes": "Best eaten fresh from the plant. Can be blanched briefly in boiling water and dried on flat slates in the sun for winter vegetable chips.",
+      "companion_plants": [
+        "mountain_fingerling_potato",
+        "purple_top_winter_turnip"
+      ],
+      "season_fit_logic": "Fastest leafy survival crop. Provides immediate fresh minerals and vitamins within five weeks of the mountain spring thaw."
+    },
+    {
+      "id": "dwarf_sugar_pod_pea",
+      "name": "Dwarf Sugar Pod Pea",
+      "days_to_harvest_range": [
+        55,
+        68
+      ],
+      "cold_buffer_days": 16,
+      "frost_tolerance": "moderate_frost",
+      "soil_needs": "Well-drained gravelly loam enriched with wood ash; fixes nitrogen; hates soggy waterlogged clay.",
+      "planting_depth": "Two finger knuckles deep",
+      "spacing": "Three fingers apart along rows supported by brushwood twigs",
+      "growth_stages": [
+        {
+          "stage_name": "Climbing Tendril Sprouting",
+          "duration_description": "Eight to ten days",
+          "care_notes": "Stick dry birch and spruce twigs into the row for tendrils to climb immediately.",
+          "frost_handling": "Young pea vines easily survive snow flurries and moderate frosts."
+        },
+        {
+          "stage_name": "White Blossom and Pod Setting",
+          "duration_description": "Three weeks of climbing and flowering",
+          "care_notes": "Keep soil moist with warmed water; mulch roots with dry grass.",
+          "frost_handling": "Open flowers can be damaged by hard frost; cover with boughs on freezing nights."
+        },
+        {
+          "stage_name": "Sweet Pod Swelling",
+          "duration_description": "Two weeks of continuous picking",
+          "care_notes": "Pick daily to force the vines to continue setting new flowers.",
+          "frost_handling": "Pods withstand light frost, becoming sweeter after a chill."
+        }
+      ],
+      "ripeness_signs": [
+        "Pods reach the length of your middle finger, flat and translucent green with tiny peas just beginning to bulge",
+        "Pod snaps crisply in two like a brittle twig when bent",
+        "Sweet juicy burst of flavor when eaten raw in the garden"
+      ],
+      "harvest_method": "Hold the vine with one hand and snap the pod stem cleanly with the other thumb and forefinger to avoid tearing the root system.",
+      "storage_notes": "Eat immediately fresh, or dry mature pods on slates for rich split-pea winter survival soups.",
+      "companion_plants": [
+        "purple_top_winter_turnip",
+        "black_spanish_winter_radish",
+        "highland_naked_barley"
+      ],
+      "season_fit_logic": "Early spring pioneer. Climbs brushwood to escape freezing ground winds and enriches the soil for subsequent hungry root crops."
+    }
+  ],
+  "water_management": [
+    {
+      "id": "dark_slate_sun_warming_basin",
+      "technique": "Dark Slate Sun-Warming Basin",
+      "materials": "Flat slabs of dark black or purple slate, heavy mountain clay for caulking, fist-sized retaining stones",
+      "procedure": [
+        "1. Select the sunniest, most wind-sheltered terrace corner that receives earliest morning light.",
+        "2. Excavate a wide, shallow dish into the ground, no deeper than the length of your hand from wrist to fingertips and as wide as two long paces across.",
+        "3. Line the bottom and sloping sides with overlapping dark slate slabs, bedding them into wet clay mortar.",
+        "4. Divert icy snowmelt or stream water into the basin at daybreak until it reaches hand-depth.",
+        "5. Allow the water to sit motionless under the midday sun; the dark slate absorbs solar energy and transmits radiant heat into the shallow water layer.",
+        "6. By mid-afternoon, the water transforms from bone-numbing glacier chill to lukewarm bath warmth, ready for gentle garden irrigation."
+      ],
+      "purpose": "Warms ice-cold mountain stream runoff before it touches plant roots, preventing cold-water shock which stuns plant vascular systems and halts growth for days.",
+      "warnings": [
+        "Do not make the basin deeper than hand-depth; deep water will remain cold at the bottom.",
+        "Keep wild mountain animals and debris out by laying a coarse branch grill over the basin."
+      ]
+    },
+    {
+      "id": "unfired_clay_olla_pot_subsurface_seeper",
+      "technique": "Unfired Clay Olla Pot Subsurface Seeper",
+      "materials": "Porous unglazed earthenware jugs or hollow clay vessels pinched from mountain stream clay, flat capping slate",
+      "procedure": [
+        "1. Dig holes between crop plants as deep as your forearm.",
+        "2. Bury the porous clay jugs up to their narrow necks, tamping loose gravelly loam firmly around their bellies.",
+        "3. Fill the jugs with warmed water from the sun-basin using a funnel or pinched bucket rim.",
+        "4. Cover the open mouth of each jug with a flat slate to prevent evaporation and keep out crawling insects and soil debris.",
+        "5. Water seeps steadily through the microscopic pores of the earthenware vessel directly into the surrounding subsoil at root level.",
+        "6. Refill the jugs every three to four days as water levels recede."
+      ],
+      "purpose": "Delivers sun-warmed moisture straight to thirsty root zones beneath the surface without losing a single drop to desiccating mountain winds or surface evaporation.",
+      "warnings": [
+        "Must be emptied and inverted before the deep winter freeze, otherwise expanding ice will crack and shatter the earthenware pots.",
+        "Never glaze the clay; glazed pots are impermeable and will not seep."
+      ]
+    },
+    {
+      "id": "shallow_meandering_terrace_swale_sluice",
+      "technique": "Shallow Meandering Terrace Swale Sluice",
+      "materials": "Smooth flat river cobbles, timber flow-gate plug, hand hoe",
+      "procedure": [
+        "1. Carve a gentle, snake-like shallow trench running back and forth along the contour of the terrace bed.",
+        "2. Ensure the trench is only two fingers deep and one hand-span wide, maintaining an almost level gradient so water crawls at walking speed.",
+        "3. Line the serpentine channel with smooth black stones that absorb midday sunlight.",
+        "4. Release water from the primary supply ditch in a slow trickle during peak solar noon.",
+        "5. As the water meanders slowly over the hot stones, it absorbs atmospheric and stone heat while soaking into bed subsoils.",
+        "6. Block or open channel junctions with a carved wooden paddle plug to direct water to alternating terrace beds."
+      ],
+      "purpose": "Distributes water evenly across the terrace while using distance and solar contact time to warm mountain water on the move.",
+      "warnings": [
+        "Never run water down steep straight trenches; high-speed mountain runoff will gouge deep erosion gullies and strip topsoil.",
+        "Clear silt deposits from the channel turns after every mountain rainstorm."
+      ]
+    },
+    {
+      "id": "snowmelt_gravel_settling_and_decanting_tank",
+      "technique": "Snowmelt Gravel Settling and Decanting Tank",
+      "materials": "Wooden plank box or drystone pit lined with clay, graded river gravel, coarse sand, sheep fleece filter",
+      "procedure": [
+        "1. Construct a two-stage stone chamber at the terrace inlet.",
+        "2. Pack the first chamber with coarse fist-sized stones topped with a layer of washed gravel and clean sheep fleece.",
+        "3. Direct turbid, grey snowmelt runoff into the first chamber to trap abrasive rock flour, silt, and sharp glacial debris.",
+        "4. Allow the clarified water to spill over a smooth slate weir into the second shallow settling basin.",
+        "5. Decant clean, sediment-free water from the surface of the second basin for delicate seedlings and drip pots."
+      ],
+      "purpose": "Removes abrasive glacial silt and stone flour that would otherwise seal soil pores with an impermeable cement-like crust.",
+      "warnings": [
+        "Wash out the sheep fleece and gravel filter bed once every moon to prevent clogging and foul sludge buildup.",
+        "Do not allow sediment runoff to flow directly onto seedbeds."
+      ]
+    },
+    {
+      "id": "slate_tile_subsurface_wicking_trenches",
+      "technique": "Slate Tile Subsurface Wicking Trenches",
+      "materials": "Overlapping curved slate slabs, fist-sized porous pumice/lava stones or coarse charcoal",
+      "procedure": [
+        "1. Excavate a trench one forearm deep down the center line of the terrace planting bed.",
+        "2. Lay flat slate tiles along the trench floor, then build an arch or loose tunnel of coarse charcoal and fist-sized rocks.",
+        "3. Cover the rock tunnel with upside-down sod strips or thick bracken fern to stop topsoil from sifting down.",
+        "4. Backfill with garden loam and plant directly above and alongside the trench.",
+        "5. Introduce warm water into one end of the buried stone channel; water travels horizontally through the voids and wicks upward through capillary suction into root zones."
+      ],
+      "purpose": "Creates a permanent underground water highway that keeps the soil surface completely dry (preventing crusting and weed sprouting) while keeping subsoils evenly damp.",
+      "warnings": [
+        "Ensure the trench has zero downward slope; water must distribute evenly rather than pooling at the far end.",
+        "Do not puncture the protective sod layer when digging harvest roots."
+      ]
+    },
+    {
+      "id": "dew_condensing_cairn_funnel",
+      "technique": "Dew-Condensing Cairn Funnel",
+      "materials": "Heavy rounded granite and basalt river cobbles, hollow bark tube",
+      "procedure": [
+        "1. Dig a bowl-shaped depression the size of a cooking pot beside a high-value fruit bush or seedling clump.",
+        "2. Stack clean, cool rounded river cobbles into an open pyramid cairn inside the bowl.",
+        "3. As warm, moisture-laden mountain air cools rapidly during twilight, moisture condenses upon the cold dense cobbles.",
+        "4. Water droplets trickle down through the stone voids into the subterranean bowl directly at root depth.",
+        "5. The top stones shield the condensed moisture from the morning sun, preventing evaporation."
+      ],
+      "purpose": "Harvests atmospheric dew and mountain fog moisture silently every night without needing an active stream or rain shower.",
+      "warnings": [
+        "Keep the stones clean of dirt and fallen leaves; dust on stones absorbs dew before it can drip downward.",
+        "Only works in regions with high night humidity and sharp day-to-night temperature drops."
+      ]
+    },
+    {
+      "id": "inverted_hollow_stem_reed_drip_feeders",
+      "technique": "Inverted Hollow-Stem Reed Drip Feeders",
+      "materials": "Stout hollow elderberry branches or thick river reeds, horsehair or moss wick plug",
+      "procedure": [
+        "1. Cut thumb-thick hollow elderberry or reed stems as long as your forearm, clearing out soft internal pith with a hot wire or sharp stick.",
+        "2. Plug the bottom end loosely with a twist of clean sheep wool or horsehair to act as a slow-flow capillary restrictor.",
+        "3. Push the reed into the earth beside an individual plant until the bottom rests near deep roots, leaving three fingers of reed exposed above ground.",
+        "4. Pour sun-warmed water directly into the top of the reed tube using a small drinking horn.",
+        "5. The water slowly trickles directly into the root zone without wetting the cold, windy surface."
+      ],
+      "purpose": "Eliminates surface water wastage and prevents soil crusting around tender individual crop plants like winter brassicas and squash.",
+      "warnings": [
+        "Do not pack the wool plug too tight, or water will not seep; test flow in a cup before installing.",
+        "Mark the tops of reeds with white pebble caps so you do not snap them when working the terrace beds."
+      ]
+    },
+    {
+      "id": "stepped_cascading_aeration_riffle",
+      "technique": "Stepped Cascading Aeration Riffle",
+      "materials": "Flat slate stepping stones, timber side logs, wooden support stakes",
+      "procedure": [
+        "1. Construct a miniature stepped water staircase connecting an upper supply pool to lower terrace beds.",
+        "2. Set three to four flat slate lips so water tumbles over each ledge in a thin, foaming sheet.",
+        "3. As water cascades from step to step, it churns with ambient mountain air, splashing over sun-warmed rock lips.",
+        "4. Dissolved mountain oxygen surges into the stream, while stagnant swamp gases and anaerobic smells evaporate away.",
+        "5. Direct the aerated, invigorated water directly into irrigation channels."
+      ],
+      "purpose": "Infuses cold stagnant seepage water with life-giving oxygen and solar warmth, stimulating root respiration and waking up dormant soil microbes.",
+      "warnings": [
+        "Ensure splash water does not erode the terrace retaining wall; line splash pools with durable slate slabs.",
+        "Shut off the riffle during freezing twilight hours to prevent ice damming."
+      ]
+    }
+  ],
+  "pest_management": [
+    {
+      "id": "mountain_black_slugs",
+      "pest_name": "Mountain Black Slugs and Shell Snails",
+      "signs_to_watch": [
+        "Irregular ragged holes chewed through tender cabbage, turnip, and kale leaves overnight",
+        "Glistening silvery dried slime trails winding across stones, terrace walls, and damp earth",
+        "Seedlings cut down cleanly at the soil line with severed stems left lying on the dirt"
+      ],
+      "conditions_that_favor": [
+        "Prolonged overcast mountain drizzles and dense, clammy hill fog",
+        "Cool damp hiding crevices beneath loose terrace drystone walls and rotten mulch blankets",
+        "Overly wet soil beds situated in constant ridge shadow"
+      ],
+      "bio_controls": [
+        {
+          "method_name": "Wood Ash and Crushed Eggshell Desiccant Perimeter",
+          "ingredients": "Three double-handfuls of bone-dry hearth wood ash, two handfuls of campfire-calcined crushed wild bird eggshells",
+          "procedure": "Spread a continuous band as wide as your palm and as deep as your thumb completely encircling vulnerable planting beds. The caustic alkaline ash and razor-sharp shell shards abrade and dehydrate the slug's moist belly.",
+          "timing": "Apply in late afternoon before dusk; refresh immediately following any mountain drizzle that dampens the ash."
+        },
+        {
+          "method_name": "Fermented Cereal Mash Trap Jars",
+          "ingredients": "Half a cup of boiled barley water fermented with wild mountain honey or sourdough scraps, shallow clay bowl",
+          "procedure": "Sink shallow clay bowls into the soil so rims sit flush with the earth. Fill with fermented grain mash. Slugs are drawn by the yeast scent, crawl in, and drown.",
+          "timing": "Set before sunset; empty drowned pests at dawn and top off with fresh sour mash every three days."
+        },
+        {
+          "method_name": "Dusk Slate Board Trap Collection",
+          "ingredients": "Flat wide slate shingles, fresh turnip peelings",
+          "procedure": "Lay flat slate shingles flat on damp ground throughout the garden with a turnip peel underneath. In the heat of the next morning, flip the slates; pick off congregating slugs hiding from the sun and feed to birds or drop into fire coals.",
+          "timing": "Inspect every morning when the sun first hits the ridge."
+        }
+      ],
+      "companion_planting_deterrents": [
+        "perennial_mountain_welsh_onion",
+        "Drying aromatic mountain sage and wild mint strewn along bed edges",
+        "Prickly dried conifer needle borders"
+      ]
+    },
+    {
+      "id": "brittle_mountain_flea_beetle",
+      "pest_name": "Brittle Mountain Flea Beetle",
+      "signs_to_watch": [
+        "Hundreds of tiny, circular 'shotholes' peppering brassica and turnip leaves until they look like lace",
+        "Tiny shiny black or bronze specks that jump violently like fleas when you brush a hand over foliage",
+        "Stunted seedling growth and scorched, crisp leaf edges during sunny midday spells"
+      ],
+      "conditions_that_favor": [
+        "Dry, sunny, windy mountain afternoons with dusty, parched topsoil",
+        "Young spring brassicas and radishes struggling in nutrient-poor scree"
+      ],
+      "bio_controls": [
+        {
+          "method_name": "Wood Ash and Fine Dust Foliar Coating",
+          "ingredients": "Two handfuls of cold, finely sifted white hearth ash, one handful of powdery mountain silt",
+          "procedure": "Dust the powder through a coarse cloth bag over moist morning leaves, coating both upper and lower leaf surfaces with a thin grey ghosting. The dry alkaline powder irritates beetles and prevents chewing.",
+          "timing": "Dust at dawn while dew is still wet on foliage; reapply after heavy wind or rain."
+        },
+        {
+          "method_name": "Wild Garlic and Wormwood Bitter Leaf Brew",
+          "ingredients": "Two crushed bulbs of wild rock garlic, three handfuls of bitter mountain wormwood foliage, one bucketful of hot water",
+          "procedure": "Steep the crushed herbs in a covered bucket under the sun for two days until foul and bitter. Strain liquid through a cloth and drench infested brassica leaves using a brush whisk.",
+          "timing": "Spray mid-morning when beetles begin jumping and feeding actively."
+        }
+      ],
+      "companion_planting_deterrents": [
+        "perennial_mountain_welsh_onion",
+        "mountain_orach_greens",
+        "Broadcasting wild coriander and aromatic fennel along terrace edges"
+      ]
+    },
+    {
+      "id": "cabbage_and_turnip_root_maggot",
+      "pest_name": "Cabbage and Turnip Root Maggot Fly",
+      "signs_to_watch": [
+        "Suddenly wilting brassica plants that turn dull leaden-blue at midday even when soil is moist",
+        "Turnips and rutabagas riddled with dark, slimy, corkscrew brown tunnels beneath the skin",
+        "Small, headless white writhing grubs discovered feeding inside the taproot when pulled"
+      ],
+      "conditions_that_favor": [
+        "Cool, moist spring conditions when wild mountain cherry or serviceberry is in bloom",
+        "Fresh, unrotted animal manure spread carelessly on the terrace surface"
+      ],
+      "bio_controls": [
+        {
+          "method_name": "Birch Bark Root Collar Discs",
+          "ingredients": "Squares of cured flexible birch bark or stiff conifer bark, flat slate stones",
+          "procedure": "Cut hand-sized discs from fallen birch bark, slice a slit to the center, and slip the collar tightly around the seedling stem flat against the soil. Fly cannot lay eggs at the soil-stem junction.",
+          "timing": "Fit immediately upon transplanting seedlings into beds."
+        },
+        {
+          "method_name": "Caustic Hearth Ash Stem Trench Drench",
+          "ingredients": "Two cups of fresh wood ash, one cup of crushed charcoal dust",
+          "procedure": "Tuck a collar of dry ash and charcoal directly against the base of each stem, forming a dry alkaline cone that desiccates newly hatched fly eggs.",
+          "timing": "Apply when mountain flies first begin buzzing over warming beds in spring."
+        }
+      ],
+      "companion_planting_deterrents": [
+        "perennial_mountain_welsh_onion",
+        "Strong-smelling bruised pine needles banked against plant bases"
+      ]
+    },
+    {
+      "id": "powdery_cold_terrace_mildew",
+      "pest_name": "Powdery Cold Terrace Mildew",
+      "signs_to_watch": [
+        "Dull white talcum-powder spots spreading across upper leaf surfaces of peas and greens",
+        "Leaves yellowing prematurely, curling upward at margins, and withering into dry parchment",
+        "Musty, stale cellar odor hanging over shaded terrace corners"
+      ],
+      "conditions_that_favor": [
+        "Cold, clammy stagnant air trapped in deep terrace pockets with poor wind drainage",
+        "Shaded beds receiving fewer than three hand-spans of direct sunlight due to mountain ridge overhang",
+        "Crowded plant rows with heavy leaf contact"
+      ],
+      "bio_controls": [
+        {
+          "method_name": "Sour Milk Whey and Hearth Ash Wash",
+          "ingredients": "One cup of sour curds or milk whey strained from sheep or goat milk, two pinches of fine wood ash, half a bucketful of water",
+          "procedure": "Whisk thoroughly and flick onto affected foliage with a pine twig brush. Lactic bacteria and natural salts eliminate fungal spores on the leaf cuticle.",
+          "timing": "Apply at midday during sunny hours so the wash dries rapidly in direct light."
+        },
+        {
+          "method_name": "Horsetail and Nettle Silica Tea",
+          "ingredients": "Two double-handfuls of dried mountain horsetail grass (rich in natural glass silica), half a bucketful of boiling water",
+          "procedure": "Simmer dried horsetail on campfire coals for half a candle's burn time, cool, and sprinkle onto crops to strengthen leaf cell walls against fungal penetration.",
+          "timing": "Apply every seven days as a preventive shield during foggy weather."
+        }
+      ],
+      "companion_planting_deterrents": [
+        "perennial_mountain_welsh_onion",
+        "Thinning and spacing plants widely to allow brisk mountain breezes to dry leaves"
+      ]
+    },
+    {
+      "id": "highland_vole_and_rock_mouse",
+      "pest_name": "Highland Vole and Rock Mouse",
+      "signs_to_watch": [
+        "Mature turnips, potatoes, and parsnips hollowed out from below with sharp chisel tooth marks",
+        "Spongy, collapsing run tunnels weaving just two fingers beneath the soil surface",
+        "Entire potato stems pulled down into holes like fishing lines"
+      ],
+      "conditions_that_favor": [
+        "Thick, undisturbed straw mulch left unmanaged through autumn",
+        "Loose, cavernous stone retaining walls offering endless predator-proof nesting burrows",
+        "Deep snow blankets providing covered runways for winter feeding"
+      ],
+      "bio_controls": [
+        {
+          "method_name": "Crushed Bramble and Spiny Gorse Trench Packing",
+          "ingredients": "Armfuls of dried, razor-sharp wild thorny brambles, rose briars, or spiny juniper twigs",
+          "procedure": "Dig a trench one hand's depth deep along the base of stone walls and pack tightly with thorny brambles before covering with earth. Rodents cannot dig through the spiny barrier without tearing their feet and noses.",
+          "timing": "Install during terrace bed preparation before planting."
+        },
+        {
+          "method_name": "Crushed Wild Garlic and Elderberry Leaf Burrow Flushing",
+          "ingredients": "Bruised wild garlic leaves, pungent elder leaves, bucket of hot wash water",
+          "procedure": "Stuff crushed pungent leaves deep into every active vole hole and pour in a bucket of hot bitter water to foul their runways.",
+          "timing": "Repeat whenever fresh soil mounds appear on the beds."
+        },
+        {
+          "method_name": "Perimeter Stone Compaction and Boot Tamping",
+          "ingredients": "Boot heels, heavy flat cobblestones",
+          "procedure": "Walk the terrace perimeter daily, stomping down runway ridges and laying heavy boundary stones over soft spots to crush subterranean tunnels.",
+          "timing": "Perform daily during morning garden checks."
+        }
+      ],
+      "companion_planting_deterrents": [
+        "perennial_mountain_welsh_onion",
+        "Elderberry branch stakes driven around perimeter",
+        "Strewing bitter wormwood and tansy clippings across mulch paths"
+      ]
+    },
+    {
+      "id": "early_spring_cutworm",
+      "pest_name": "Early Spring Cutworm",
+      "signs_to_watch": [
+        "Sturdy young seedlings cleanly felled overnight at the soil line, left lying like chopped timber",
+        "Fat, smooth, greyish-brown caterpillars curled tightly into a 'C' shape when dug up from shallow dirt",
+        "Damaged plants discovered in clusters along the terrace edge"
+      ],
+      "conditions_that_favor": [
+        "Beds choked with unmanaged wild grass sod during the previous autumn",
+        "Loose, dry cloddy soil where grubs can crawl rapidly at night without swimming in mud"
+      ],
+      "bio_controls": [
+        {
+          "method_name": "Split Hollow Twig Stem Armor",
+          "ingredients": "Finger-length sections of hollow elderberry twigs, hollow dried sunflower stalks, or thick birch bark cylinders",
+          "procedure": "Split the hollow twig lengthwise, encircle the seedling stem, and push it one finger knuckle into the earth, leaving two fingers exposed above ground. The grub encounters hard wood armor and cannot bite through.",
+          "timing": "Place around every seedling at the moment of planting."
+        },
+        {
+          "method_name": "Twilight Palm Sifting Scratch Test",
+          "procedure": "At dusk, scrape back the top finger of soil around freshly severed seedlings with your fingers. The grub will be curled in the dirt within a hand-span of the victim; find it and crush it or drop into campfire.",
+          "timing": "At dusk or immediately upon spotting a felled seedling in the morning."
+        }
+      ],
+      "companion_planting_deterrents": [
+        "perennial_mountain_welsh_onion",
+        "Drenching soil with bitter wormwood tea before seeding"
+      ]
+    },
+    {
+      "id": "grey_mountain_stem_aphid",
+      "pest_name": "Grey Mountain Stem Aphid",
+      "signs_to_watch": [
+        "Dense, grey or waxy black crusts of tiny motionless insects smothering tender new shoot tips and flower buds",
+        "Curled, puckered, twisted foliage coated in sticky sweet honeydew",
+        "Black sooty mold growing on foliage following honeydew deposits"
+      ],
+      "conditions_that_favor": [
+        "Lush, tender growth following excessive dung applications",
+        "Warm, dry, wind-sheltered terrace hollows where ladybird beetles and hoverflies have not yet emerged"
+      ],
+      "bio_controls": [
+        {
+          "method_name": "Wood Ash Soap Lye Spray",
+          "ingredients": "One cup of clear hearth ash water (made by soaking cold clean wood ash in water and skimming clear liquid), two drops of rendered animal fat soap, half a bucketful of stream water",
+          "procedure": "Mix and flick forcefully onto aphid clusters with a branch brush. The alkaline wash breaks down their waxy bodies and suffocates them.",
+          "timing": "Apply at mid-morning on sunny days."
+        },
+        {
+          "method_name": "Coarse Sand Finger Rubbing",
+          "ingredients": "A pinch of fine gritty sand or coarse ash",
+          "procedure": "Take the infested shoot tip gently in one hand, dip your other fingers in dry sand, and gently wipe the aphids off the stem. The grit crushes the soft-bodied insects without harming the tough stem.",
+          "timing": "Inspect and rub at first sign of small clusters before they explode in numbers."
+        }
+      ],
+      "companion_planting_deterrents": [
+        "perennial_mountain_welsh_onion",
+        "Interplanting with pungent mountain chives",
+        "Allowing wild mountain umbel flowers to bloom on terrace walls to attract predatory hoverflies"
+      ]
+    }
+  ],
+  "soil_regeneration": [
+    {
+      "id": "post_harvest_slash_and_crimped_straw_mulching",
+      "practice": "Post-Harvest Slash and Crimped Straw Mulching",
+      "when_to_do": "Immediately following the final autumn crop harvest before the first burying snowstorm.",
+      "materials": "Harvest crop haulms (pea vines, bean stalks, turnip greens), long wild mountain grasses, flat river rocks",
+      "procedure": "Chop harvested crop residues with a sharp spade into pieces the length of your finger. Spread them evenly over the bare beds. Top with a layer of cured mountain meadow grass as thick as your palm. Crimp and compress the straw by walking heel-to-toe across the bed, then weight down the edges with heavy slate slabs so mountain gales do not strip the blanket away.",
+      "benefit": "Prevents fierce winter winds from blowing fine topsoil off the terrace, stops frost-heaving from shattering earth crumb structure, and feeds soil worms slowly under snow cover."
+    },
+    {
+      "id": "layered_mountain_compost_cairn",
+      "practice": "Layered Mountain Compost Cairn",
+      "when_to_do": "Built throughout late summer and autumn; turned once before the big freeze.",
+      "materials": "Green weeds, wild nettles, animal bedding dung (rabbit, sheep, or goat), brown forest duff, wood ash, crushed bone",
+      "procedure": "Construct a rectangular stone frame two paces wide against a sunny stone wall. Lay a bottom coarse layer of finger-thick birch twigs for air. Alternate layers: two hand-depths of green nitrogenous weeds and dung, one hand-depth of dry brown leaf duff, and a light dusting of white hearth ash and calcined bone meal. Cap the entire heap with a blanket of thick mountain sod to shed heavy rain and retain internal heat.",
+      "benefit": "Concentrates scarce biological nutrients into rich, crumbly black gold that warms the terrace beds and restores organic sponge matter."
+    },
+    {
+      "id": "biochar_pit_firing_with_dung_quenching",
+      "practice": "Biochar Pit Firing with Dung Quenching",
+      "when_to_do": "Mid-autumn on a dry, calm afternoon after gathering dry mountain deadfall.",
+      "materials": "Dry fallen conifer branches, birch deadfall, shovel, bucket of liquid manure slurry, stream water",
+      "procedure": "Dig a cone-shaped pit in the terrace subsoil one arm's length deep and wide. Build a criss-cross fire of dry deadfall from the bottom up. As flames roar and wood chars to glowing, smoking embers without white ash, smother the air by shoveling excavated earth over the pit mouth. Let char smolder for two hours, then quench the glowing coals by pouring three bucketfuls of rich dung-slurry over them. The porous charcoal absorbs the dung nutrients instantly.",
+      "benefit": "Produces permanent terra preta charcoal granules that remain in thin terrace soils for generations, buffering water and providing microscopic shelters for beneficial fungi."
+    },
+    {
+      "id": "deep_winter_drystone_wall_chinking_and_backfill_renovation",
+      "practice": "Deep Winter Drystone Wall Chinking and Backfill Renovation",
+      "when_to_do": "Late winter during mild sunny thaws when soil is resting.",
+      "materials": "Flat slate shims, clean angular scree cobbles, heavy ironwood pry lever",
+      "procedure": "Walk the entire face of the terrace retaining wall. Inspect every joint where stones have rattled loose from frost heaving. Drive sharp slate wedges into loose joints with a cobblestone mallet until the wall rings solid. Shovel away compacted silt choking the rear drainage zone behind the wall and repack with two bucketfuls of clean angular scree gravel per pace.",
+      "benefit": "Guarantees the terrace will not suffer blowout when massive spring snowmelt surges off the high mountain ridges."
+    },
+    {
+      "id": "frost_heave_stone_picking_and_perimeter_bordering",
+      "practice": "Frost-Heave Stone Picking and Perimeter Bordering",
+      "when_to_do": "Early spring immediately following the retreat of the winter snow blanket.",
+      "materials": "Wooden collecting hod or sturdy bucket, bare hands",
+      "procedure": "As frozen ground expands and contracts during spring thaws, subterranean rocks are 'born' and pushed up to the surface. Walk every bed with a bucket, gathering all frost-heaved stones larger than a walnut. Carry these stones to the outer terrace lip and stack them into the perimeter windbreak or border retaining cribs.",
+      "benefit": "Gradually deepens the stone-free soil profile year after year, turning jagged scree beds into deep, workable root loam."
+    },
+    {
+      "id": "overwintering_green_mat_crimping",
+      "practice": "Overwintering Green Mat Crimping",
+      "when_to_do": "Early spring when overwintered rye and mountain vetch reach knee-height.",
+      "materials": "Heavy timber log, foot ropes, wooden spade",
+      "procedure": "Tie ropes to both ends of a heavy conifer log. Walk backward dragging and stomping the log over the green winter cover crop, snapping and bruising the succulent stems at ground level so they lay flat in a dense woven carpet. Do not dig or plow the roots; leave the tangled roots in the earth to rot into worm channels.",
+      "benefit": "Creates an immediate, weed-suppressing, moisture-retaining living mulch blanket that feeds the soil without disturbing delicate terrace soil layers."
+    },
+    {
+      "id": "hearth_wood_ash_and_bone_mineral_dusting",
+      "practice": "Hearth Wood Ash and Bone Mineral Dusting",
+      "when_to_do": "Late winter scattered directly over lingering snow crusts.",
+      "materials": "Sifted wood ash from winter heating fires, campfire-roasted crushed animal bones",
+      "procedure": "Store dry wood ash all winter in covered clay vessels. In late winter, walk the snow-covered terrace beds and broadcast the grey ash and pulverized bone meal evenly over the snow crust until the white surface turns dull mottled charcoal grey. As the sun strikes the dark ash, it absorbs heat, melting the snow two weeks earlier while carrying dissolved potash, lime, and phosphorus straight down into the thawing earth.",
+      "benefit": "Accelerates spring ground thaw by two full weeks while balancing mountain soil acidity and replenishing depleted root minerals."
+    }
+  ],
+  "readiness_gates": [
+    {
+      "id": "wall_stability_shoulder_push_gate",
+      "check_name": "Terrace Wall Stability Shoulder-Push Gate",
+      "procedure": "Stand on the terrace below and plant your shoulder firmly against the center of the retaining wall face at chest height. Brace your boots and exert full body shoving force against the stones. Repeat every five paces along the entire wall length.",
+      "pass_criteria": "The wall feels completely monolithic and dead-solid; zero stones shift, rattle, groan, or tilt outward under your body weight.",
+      "fail_action": "Do not plant or fill beds! Dismantle the loose section immediately down to sound stone, repack backing gravel, and rebuild with an inward batter before adding topsoil."
+    },
+    {
+      "id": "soil_workability_hand_plunge_depth_gate",
+      "check_name": "Soil Workability Hand-Plunge Depth Gate",
+      "procedure": "Kneel beside the bed at midday. Hold your fingers straight and rigid, and drive your open hand straight down into the earth using only the downward thrust of your arm, without wriggling or clawing.",
+      "pass_criteria": "Your fingers penetrate smoothly into loose, crumbly soil past your second knuckle (for shallow greens) or to the base of your palm (for root crops) without striking frozen ground or impenetrable stone shelf.",
+      "fail_action": "If your hand stops at one finger depth against cold hard ground, soil frost is still locked below; hill soil into raised ridges, cover with dark slate slabs to catch solar heat, and wait another seven suns."
+    },
+    {
+      "id": "soil_warmth_midday_bare_hand_contact_gate",
+      "check_name": "Soil Warmth Midday Bare-Hand Contact Gate",
+      "procedure": "At solar noon on a clear day, scrape away the top dry finger of soil. Press the tender inside wrist or bare palm flat against the damp subsoil and hold it motionless for the count of thirty slow breaths.",
+      "pass_criteria": "The earth feels neutral or mildly comforting like a sun-warmed stone; no deep, bone-aching ache or numbness creeps into your wrist bones.",
+      "fail_action": "If your palm goes numb with an icy ache within twenty breaths, the ground is an ice-box; seeds will rot in the dirt before germinating. Install slate heat batteries and wait for mountain dandelions to open."
+    },
+    {
+      "id": "drainage_mud_squeeze_gate",
+      "check_name": "Drainage Mud Squeeze and Ribbon Gate",
+      "procedure": "Scoop a handful of earth from two knuckles deep. Squeeze it into a ball in your fist, then open your hand. Drop the ball from belt height onto a flat stone.",
+      "pass_criteria": "The ball holds together in your palm without water glistening or oozing between your fingers, and when dropped, it shatters cleanly into crumbly, friable crumbs.",
+      "fail_action": "If cold water squelches out between your knuckles, or if the dropped lump lands with a dull thud like sticky modeling clay, the soil is waterlogged. Cut drainage channels and delay planting to prevent seed drowning."
+    },
+    {
+      "id": "frost_protection_stockpile_readiness_gate",
+      "check_name": "Frost Protection Stockpile Readiness Gate",
+      "procedure": "Before dropping a single seed in the ground, walk the perimeter and count your stockpiled protective gear: conifer boughs, dry grass bundles, flat slate tiles, wicker cloches, and dry hearth ash.",
+      "pass_criteria": "You possess enough boughs, straw stooks, and slate shingles stacked ready beside the beds to cover every single planted row within the time it takes to walk the terrace twice.",
+      "fail_action": "Halt planting! A sudden mountain frost will wipe out unprotected shoots overnight. Spend the day in the conifer woods harvesting boughs and collecting slate slabs before sowing seeds."
+    },
+    {
+      "id": "water_warming_basin_integrity_gate",
+      "check_name": "Water-Warming Basin Integrity and Supply Gate",
+      "procedure": "Fill your slate-lined sun-warming basin to hand's depth at sunrise. Check water level at noon and dip your hand into the water.",
+      "pass_criteria": "The basin holds its water without clay-seam leaks, and the midday water feels distinctly tepid and comfortable to a submerged hand, not ice-numbing.",
+      "fail_action": "If the basin leaks empty, recaulk seams with heavy mountain clay and pounded silt. If water remains freezing, increase slate lining or reduce water depth to four fingers."
+    },
+    {
+      "id": "predator_burrow_exclusion_gate",
+      "check_name": "Predator Burrow and Rodent Exclusion Gate",
+      "procedure": "Carefully inspect the junction where the terrace soil meets the retaining wall and cliff face. Look for fresh dime-to-fist-sized holes, chewed roots, or fresh soil mounds thrown up by mountain voles and mice.",
+      "pass_criteria": "No open, active burrows or soft collapsed runway tunnels are detected within three paces of planting rows.",
+      "fail_action": "Pack all holes immediately with crushed spiny juniper twigs and pungent wild garlic mash, tamp down with cobblestones, and set deadfall traps before seeding."
+    },
+    {
+      "id": "windbreak_integrity_gate",
+      "check_name": "Windbreak Integrity and Gale Buffer Gate",
+      "procedure": "Stand on the windward terrace lip during an afternoon breeze. Crouch down to the height of an emerging seedling (one hand-span above bed level) and feel for wind draughts with your face.",
+      "pass_criteria": "The windbreak wattle or dead-hedge deflects the gale upward over your head; air at seedling level is calm enough that a dry seed fluff or dandelion seed drops gently to earth rather than blowing horizontally away.",
+      "fail_action": "Weave additional pine boughs and brush into the windward wattle fence until ground-level drafts are halted."
+    }
+  ],
+  "season_reasoning": [
+    {
+      "id": "hyper_short_season_under_two_moons",
+      "scenario": "Hyper-Short Mountain Season (Fewer than Two Full Moons / Under 60 Days)",
+      "frost_date_assessment_method": "Watch the high mountain snowline and natural indicator plants: the season opens only when wild alpine yellow dandelions bloom on exposed sunny scree and the snowline retreats higher than two arrow-shots above the terrace. The season closes when mountain swallows depart and the first dusting of snow coats the ridge behind the terrace overnight.",
+      "decision_rules": [
+        "IF estimated growing window is under two full moons, THEN eliminate all long-season root crops (parsnips, rutabagas) immediately.",
+        "IF rapid calories are required, THEN plant exclusively 45-day purple top turnips, fast mountain orach greens, and quick winter radishes.",
+        "IF potatoes are planted, THEN pre-sprout seed tubers in sunny, sheltered cliff nooks for two weeks before planting to gain a ten-day head start.",
+        "IF frost threatens during flowering, THEN deploy conifer boughs and smudge fires immediately, as there is zero time for crops to recover from setbacks."
+      ],
+      "warning_signs": [
+        "Glacial ice needles fail to melt from shaded ditch banks even at high noon",
+        "Mountain crickets cease chirping at twilight three days in a row",
+        "Puffballs and wild shelf mushrooms harden and burst into dry brown powder",
+        "Flocks of high-altitude finches congregate and fly down-valley toward lower foothills"
+      ]
+    },
+    {
+      "id": "standard_mountain_season_two_to_three_moons",
+      "scenario": "Standard Mountain Terrace Season (Two to Three Full Moons / 60 to 80 Days)",
+      "frost_date_assessment_method": "Season commences when wild mountain birch buds swell and break into tiny green mouse-ear leaves, confirming ground thaw. Season terminates when heavy white rime frost coats the grass stems three mornings in succession and does not melt until the sun is three hand-spans above the horizon.",
+      "decision_rules": [
+        "IF season spans two to three moons, THEN prioritize mountain fingerling potatoes, broad fava beans, and siberian curled kale as primary caloric staples.",
+        "IF broad fava beans reach waist height with six pod clusters, THEN pinch out apical tips immediately to divert all plant sugars into fattening existing pods before frost.",
+        "IF spring was delayed by late blizzards, THEN shift planting area to early turnips and cut-and-come-again mountain greens.",
+        "IF root crops have formed globes the size of a fist by late season, THEN allow light autumn frosts to kiss the foliage to sweeten flavor before pulling."
+      ],
+      "warning_signs": [
+        "Birch and wild aspen leaves turn butter-yellow along the high ridge slopes",
+        "Morning ice skins on the water warming basin require a firm thumb press to crack",
+        "Sun sinks behind the southern mountain ridge two hand-widths earlier each afternoon",
+        "Night condensation turns to brittle white crust rather than wet liquid dew"
+      ]
+    },
+    {
+      "id": "extended_sheltered_terrace_season_three_to_four_moons",
+      "scenario": "Extended Sheltered Terrace Season (Three to Four Full Moons / 80 to 110 Days)",
+      "frost_date_assessment_method": "Occurs on south-facing lower terraces shielded by high cliff headwalls that reflect solar warmth. Season starts when wild mountain nettles shoot up one hand-span tall in cliff crevices and ends when ground freezing locks soil deeper than two finger knuckles.",
+      "decision_rules": [
+        "IF terrace benefits from three to four moons of growth, THEN allocate one full bed to deep hollow crown mountain parsnips and yellow rutabagas for long-term winter survival storage.",
+        "IF space permits, THEN stagger sowings: plant fava beans and barley first, followed by turnips and greens, followed by a second succession of winter radishes.",
+        "IF cereal rye is available, THEN broadcast rye seed between mature crops thirty suns before the final freeze to establish winter erosion cover."
+      ],
+      "warning_signs": [
+        "Mountain sheep descend from high alpine pastures to graze lower terrace scrub",
+        "Bracken fern across open slopes dies back to crisp rust-red skeletons",
+        "Water in clay olla pots freezes into solid plugs by the third hour after sunset",
+        "Sunlight ceases hitting the rear terrace wall as the winter sun arc flattens"
+      ]
+    },
+    {
+      "id": "sun_deprived_ridge_shadow_season",
+      "scenario": "Sun-Deprived Ridge Shadow Season (Severely Limited Daily Direct Sunlight)",
+      "frost_date_assessment_method": "Track the daily travel of the high cliff shadow across the terrace beds using stone markers. The growing season in deep shadow is governed not by calendar moons but by the narrow window when direct sunlight clears the ridge peak for at least four candle-burns of time per day.",
+      "decision_rules": [
+        "IF terrace receives fewer than four candle-burns of direct sunlight daily, THEN banish all fruiting crops and grains (barley, peas) to sunnier ground.",
+        "IF planting in shadow, THEN cultivate exclusively cold-tolerant leafy greens (kale, mountain orach, welsh onions) which thrive in diffuse cool light.",
+        "IF soil stays cool and sluggish in shadow, THEN mound earth into steep 45-degree ridges tilted directly toward the brief midday sun angle.",
+        "IF mildew signs appear on leaves due to shade and cold dampness, THEN spray immediately with wood ash wash and thin plants aggressively to maximize air flow."
+      ],
+      "warning_signs": [
+        "Soil surface remains permanently damp and grows dark green liverwort scum",
+        "Ridge shadow creeps across the terrace before midday has even passed",
+        "Morning dew on leaves fails to evaporate throughout the entire daylight period",
+        "Stems become pale, spindly, and stretch horizontally toward the sunlit cliff edge"
+      ]
+    },
+    {
+      "id": "wind_scoured_exposed_shoulder_season",
+      "scenario": "Wind-Scoured Exposed Shoulder Season (High Wind Chill and Constant Evaporation)",
+      "frost_date_assessment_method": "Observe wind patterns: season opens when fierce downdraft winter blizzards give way to intermittent valley thermal breezes. Season ends abruptly when dry polar gales howl out of the north, desiccating soil and dropping effective wind chill below freezing long before official winter snowfall.",
+      "decision_rules": [
+        "IF terrace is subjected to continuous gales, THEN prune plant canopies low and grow only dwarf, ground-hugging crops (turnips, radishes, dwarf peas).",
+        "IF tall crops like barley or fava beans are attempted, THEN plant in sunken trenches two finger-knuckles below the soil line behind stout wicker hurdles.",
+        "IF high winds cause rapid topsoil drought, THEN apply twice the normal volume of rotting sod and leaf mulch to anchor soil moisture.",
+        "IF cold winds threaten to freeze tender shoots during sunny days, THEN keep windward slate cloches erect even at midday to break wind velocity."
+      ],
+      "warning_signs": [
+        "Topsoil scours into airborne dust ripples and blows off terrace edges",
+        "Leaf margins of hardy kale curl inward and turn brittle as dry parchment",
+        "Stout wooden stakes lean permanently down-valley from relentless wind pressure",
+        "Evening breeze smells sharp and dry like powdered stone rather than damp earth"
+      ]
+    },
+    {
+      "id": "untested_first_survival_season",
+      "scenario": "Untested First Survival Season (Unknown Duration and Uncharted Microclimate)",
+      "frost_date_assessment_method": "Triage strategy: assume the shortest possible mountain season (no more than 50 frost-free days). Keep daily observational tallies on a notched cedar stick, noting sunny days, frosty dawns, and cloudbursts.",
+      "decision_rules": [
+        "IF terrace microclimate history is entirely unknown, THEN split beds: 50 percent fast insurance crops (turnips, radishes, greens), 30 percent hardy staples (potatoes, fava beans), and 20 percent frost-proof perennials (welsh onions).",
+        "IF unexpected hard frost strikes mid-season, THEN record which crops survive untouched to guide seed saving for subsequent years.",
+        "IF crops mature earlier than expected and season holds mild, THEN immediately sow a second catch crop of quick radishes and winter greens."
+      ],
+      "warning_signs": [
+        "Wild mountain berries on slopes drop to the ground while still hard and sour",
+        "Sudden plunge in bird activity across the terrace benches",
+        "Dusk temperature drops from comfortable hand warmth to breath-fogging cold in fewer breaths than it takes to eat a bowl of broth",
+        "High clouds race rapidly from the north while ground air remains eerily dead still"
+      ]
+    },
+    {
+      "id": "early_autumn_killing_freeze_pattern",
+      "scenario": "Early Autumn Killing Freeze Pattern (Sudden Premature Winter Incursion)",
+      "frost_date_assessment_method": "Watch the high mountain passes: when storm clouds pile up thick and dark like bruised iron over the northern peaks and barometric pressure drops rapidly (indicated by smoke from campfire curling down to the ground rather than rising), an early killing freeze is 24 hours away.",
+      "decision_rules": [
+        "IF killing freeze is imminent, THEN conduct an emergency harvest of all mature and semi-mature potatoes, turnips, and bean pods immediately.",
+        "IF root crops like parsnips and rutabagas must remain in ground, THEN heap every available armful of straw, dry grass, and soil over their crowns.",
+        "IF immature potato haulms are frozen to black mush, THEN cut dead vines away immediately at soil level to prevent rot from traveling down into tubers.",
+        "IF greens are lightly frozen in morning, THEN do NOT touch or walk on them; allow the gentle midday sun to thaw them gradually in place."
+      ],
+      "warning_signs": [
+        "Campfire smoke refuses to rise, drifting along the ground and stinging eyes",
+        "Mountain springs bubble with crystal-clear, icy water colder than ice itself",
+        "Dead calm air with sky turning milky white and brittle blue at the zenith",
+        "Night stars twinkle with extraordinary, razor-sharp intensity without twinkling haze"
+      ]
+    }
+  ],
+  "sunlight_assessment": [
+    {
+      "id": "ridge_shadow_pebble_line_tracking",
+      "method": "Ridge Shadow Pebble-Line Tracking",
+      "procedure": "On the first clear day of the season, walk the terrace at mid-morning when the towering mountain ridge shadow retreats. Place a white river pebble along the ground exactly where the shadow edge rests. Return at solar noon and place a second pebble; return two candle-burns before dusk and place a third pebble. Repeat this process every full moon. By sighting along the rows of marker pebbles, you create a permanent seasonal map of shade boundaries across your terrace.",
+      "what_it_tells_you": "Reveals precisely which terrace zones receive full direct sunlight throughout the day (ideal for potatoes, barley, and fava beans) versus zones trapped in persistent mountain shade (suitable only for cold greens, radishes, or water-warming basins)."
+    },
+    {
+      "id": "noon_arm_span_solar_angle_gauge",
+      "method": "Noon Arm-Span Solar Angle Gauge",
+      "procedure": "Stand upright at solar noon (when your shadow points directly north and is at its shortest). Stand with your back to the sun, extend your arm straight toward the horizon, and use your fist fingers stacked one above the other to measure how high the sun has climbed above the southern mountain crest.",
+      "what_it_tells_you": "Indicates the seasonal height of the sun's path. When the sun climbs more than four stacked fists above the ridge, the season is at peak solar strength; when it drops below two stacked fists, solar energy is failing and late-season crop growth will stall."
+    },
+    {
+      "id": "moss_and_lichen_aspect_reading",
+      "method": "Moss and Lichen Aspect Reading",
+      "procedure": "Inspect the native boulders and bedrock cliffs flanking your terrace. Observe the color and growth of natural mosses and crustose lichens: dark green, velvety, damp moss flourishes on rock faces facing away from the sun, whereas bright golden-orange and powdery yellow crust lichens dominate rock surfaces that bake in direct southern sunlight.",
+      "what_it_tells_you": "Instantly shows the historical microclimate aspect of any terrace bench without waiting for seasonal tracking: golden rock zones are your warmest planting thermal banks, while green mossy zones are cold, shaded, and damp."
+    },
+    {
+      "id": "morning_dew_evaporation_mapping",
+      "method": "Morning Dew Evaporation Mapping",
+      "procedure": "Walk the terrace two hours after sunrise on a calm morning. Observe where the thick grey morning dew evaporates first from the soil and weeds, and where it lingers as cold moisture drops long into the midday.",
+      "what_it_tells_you": "Quickly identifies early-morning solar thermal zones. Beds that dry first receive the earliest sun, warming root zones hours ahead of lagging beds; these are your premier locations for cold-sensitive crops."
+    },
+    {
+      "id": "thermal_slate_dusk_touch_test",
+      "method": "Thermal Slate Dusk Touch Test",
+      "procedure": "Place broad, dark slate slabs flat on the soil in different terrace sections at sunrise. At twilight, one hour after the sun has dipped behind the mountain ridge, walk the terrace barefoot or press your bare cheek against each slate slab.",
+      "what_it_tells_you": "Identifies which terrace micro-beds act as superior thermal sponges. Slates that stay comfortably warm to the touch well into the night reveal beds with high heat capacity, ideal for planting near retaining walls to survive frost."
+    },
+    {
+      "id": "snowmelt_contour_benchmark_mapping",
+      "method": "Snowmelt Contour Benchmark Mapping",
+      "procedure": "In early spring as the winter snowpack begins to retreat, sketch or memorize the pattern in which the snow melts off the terrace benches. Mark the patches where bare brown earth first emerges while surrounding areas remain buried under snow.",
+      "what_it_tells_you": "Pinpoints the warmest micro-sites on the mountain terrace. These 'snowmelt islands' receive the combined benefit of maximum solar exposure, wind protection, and subterranean stone warmth, making them your earliest planting nurseries."
+    },
+    {
+      "id": "finger_width_sun_horizon_descent_timer",
+      "method": "Finger-Width Sun Horizon Descent Timer",
+      "procedure": "In late afternoon, extend your arm fully toward the sun with your palm facing you and fingers held horizontally together. Count how many finger-widths fit between the bottom of the sun disc and the top of the towering mountain ridge.",
+      "what_it_tells_you": "Each finger width represents approximately fifteen minutes of remaining direct sunlight before the terrace is plunged into cold mountain ridge shadow. Enables precise timing for closing trench cloches, lighting smudge heaps, and spreading frost boughs before the freeze sets in."
+    }
+  ],
+  "non_instrument_sensory_compass": [
+    {
+      "id": "walking_stick_soil_depth",
+      "standard_authority": "NRCS Soil Survey Field Book (Soil Depth Classes) & FAO Guidelines for Soil Description",
+      "household_tool": "Thumb-thick hazel, willow or dry pine walking stick trimmed to flat blunt tip",
+      "body_metric": "Palm width, hand-span (~20 cm), and wrist-to-elbow depth marks",
+      "parameter": "Workable Topsoil Depth & Bedrock Hardpan Detection",
+      "zero_instrument_procedure": "Carve thumb-width notches every hand-width on a dry stick. Drive the blunt tip firmly straight down into the terrace bed using steady palm-heel pressure until it hits solid impassable stone resistance. Note which notch aligns with the ground level.",
+      "fao_nrcs_interpretation": "Very Shallow (< 10 cm / under 1 hand-width): unsuitable for root crops, rosettes only. Moderately Shallow (10-25 cm / 1 hand-span): suitable for radishes, turnips, spinach. Deep (> 30 cm / forearm length): suitable for deep-rooting cold staples.",
+      "remedial_action": "If under 1 hand-span, terrace wall must be raised by 2 stone tiers and backfilled with crushed leaf mould and screened subsoil."
+    },
+    {
+      "id": "glass_jar_bottle_slake_ribbon",
+      "standard_authority": "NRCS Field Texture by Feel Chart & FAO Soil Texture Finger Assessment",
+      "household_tool": "Clear glass jar, bottle, broken window pane, or clean flat slate stone",
+      "body_metric": "Handful, finger ball, and index finger-to-thumb ribbon roll",
+      "parameter": "Soil Texture, Cohesion & Silt/Clay/Sand Ratio",
+      "zero_instrument_procedure": "Take a golf-ball sized handful of moist soil from knuckle depth. Knead in palm until consistency of putty. Roll between palms into a pencil-thick cylinder. Push the cylinder out over index finger with thumb, allowing it to ribbon outward until it breaks under its own weight. Separately, drop a dry clod into a clear glass jar of water and observe slaking.",
+      "fao_nrcs_interpretation": "Ribbon breaks before 2 cm: coarse sandy loam (fast drainage, low nutrient retention). Ribbon extends 2.5-5 cm: mountain loam (ideal moisture balance). Clod explodes into clouds in water: unstable aggregate prone to terrace erosion; needs humic binder.",
+      "remedial_action": "Work in 2 bucketfuls of decomposed dark leaf litter per square pace to build water-holding humus sponge."
+    },
+    {
+      "id": "five_white_pebbles_sunlight",
+      "standard_authority": "FAO Mountain Agro-Ecology & Microclimate Shadow Mapping Guidelines",
+      "household_tool": "5 clean white chalk, quartz, or river stones placed along terrace edge",
+      "body_metric": "Paced steps, hand-width sun arc estimation (1 finger = ~15 minutes, 1 palm = ~1 hour)",
+      "parameter": "Sunlight Intensity, Ridge Occlusion & Interval Timing",
+      "zero_instrument_procedure": "Place 5 white stones in a line across the center bed: Stone 1 at morning sunbreak, Stone 2 at mid-morning, Stone 3 at solar noon (shortest shadow), Stone 4 at mid-afternoon, Stone 5 at final ridge shadow occluding the terrace. Count total hours terrace remains unshaded by mountain ridges.",
+      "fao_nrcs_interpretation": "< 4.5 unshaded hours: Severe ridge shading. Only fast-turnaround brassicas, tatsoi, radishes. Long-season tubers will starve. 6+ hours: Moderate alpine sun; sufficient for peas, turnips, cold brassicas.",
+      "remedial_action": "Paint rear terrace stone wall white or line with reflective pale slate to bounce low-angle sun rays onto bed."
+    },
+    {
+      "id": "inner_wrist_water_shock",
+      "standard_authority": "FAO Irrigation Water Quality for High Altitude Horticultural Production",
+      "household_tool": "Dark slate rock basin or blackened metal pot/pan",
+      "body_metric": "Inner wrist skin, thin venous plexus sensitive to cold shock (< 10 C)",
+      "parameter": "Irrigation Water Temperature & Thermal Root Shock Margin",
+      "zero_instrument_procedure": "Dip inner wrist and forearm veins into water source for 5 full breaths. If an involuntary sharp bone ache or tingling numbness occurs within 3 seconds, water is glacial melt (1-4 C). Never pour directly on crops.",
+      "fao_nrcs_interpretation": "Glacial meltwater halts root phosphorus and nitrogen uptake for 48 hours and triggers leaf chlorosis. Water must be warmed in shallow dark slate solar pans until wrist touch feels neutral, soothing, or lukewarm.",
+      "remedial_action": "Channel stream through 10-pace zigzag serpentine over dark slate or hold in wide shallow pans for 2 hours in noon sun."
+    },
+    {
+      "id": "bare_back_hand_soil_warmth",
+      "standard_authority": "NRCS Soil Climate Analysis Network (SCAN) & Biological Threshold Rules",
+      "household_tool": "Bare soil clearing under mulch",
+      "body_metric": "Dorsal skin of the hand (bare back of knuckles) pressed flat at solar noon",
+      "parameter": "Seed Germination Readiness & Root Thermal Buffer",
+      "zero_instrument_procedure": "Scrape back mulch at solar noon. Press the bare dorsal skin of hand firmly against flat mineral earth for 10 slow seconds. Feel whether heat transfers into hand, hand loses heat rapidly, or contact feels neutral.",
+      "fao_nrcs_interpretation": "Bone-cold biting chill: soil < 5 C; brassica/pea seeds will imbibe ice water and rot. Neutral to slight warmth: soil > 8-10 C; safe for immediate sowing of cold-adapted radishes, greens, and pre-chitted seeds.",
+      "remedial_action": "Cover soil with clear stone cloches, charred dark wood ash, or dry black slate tiles 3 days prior to planting to absorb solar radiation."
+    },
+    {
+      "id": "beaufort_clothing_wind_speed",
+      "standard_authority": "WMO Beaufort Scale Non-Instrument Field Observation & FAO Windbreak Guidelines",
+      "household_tool": "Loose cloth strip, pine branch tip, campfire smoke drift",
+      "body_metric": "Face sensation, ear whistling, jacket whipping, walking resistance",
+      "parameter": "Terrace Microclimate Wind Scour & Evaporative Desiccation",
+      "zero_instrument_procedure": "Hold cloth strip at arm length. Observe face and ear wind feel: Light breeze (felt on face, leaves rustle: 5-11 km/h); Moderate breeze (raises dust, small branches move: 20-28 km/h); High gale (large branches sway, walking impeded, ear roar: 39-49 km/h).",
+      "fao_nrcs_interpretation": "High mountain winds double transpiration water loss and snap tender cold shoots. Wind speed above walking resistance requires immediate windbreak fencing.",
+      "remedial_action": "Erect 1-meter high brushwood or dry-stone baffle on windward terrace crest to create a quiet wind shadow zone equal to 4-5 times wall height."
+    },
+    {
+      "id": "hand_plunge_snow_depth",
+      "standard_authority": "NRCS Snowpack Telemetry (SNOTEL) Field Calibration & Permafrost Active Layer",
+      "household_tool": "Fingers, knuckles, open hand, forearm",
+      "body_metric": "1st knuckle (~2.5 cm), 2nd knuckle (~5 cm), wrist (~18 cm), elbow (~45 cm)",
+      "parameter": "Snow Layer Depth & Thermal Insulation Cover",
+      "zero_instrument_procedure": "Plunge open hand with fingers together straight into undisturbed snow cover until fingers contact firm ground or crusted ice layer.",
+      "fao_nrcs_interpretation": "Dusting (fingertip): negligible insulation, ground freezes hard. Hand-depth (wrist): protects overwintered roots from deep frost. Forearm deep: substantial thermal insulation; soil underneath remains unfrozen at 0 C.",
+      "remedial_action": "Mound cleared snow onto outer wall embankments to act as a thermal windbreak while keeping planting bed cleared for solar warming."
+    }
+  ]
+}

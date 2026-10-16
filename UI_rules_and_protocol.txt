@@ -1,0 +1,64 @@
+SYSTEM SPECIFICATION & EVALUATION CRITERIA
+What a Complete Response Should Cover
+All participating teams are evaluated on whether their autonomous intelligence agent and user interface address the complete 9-stage restoration protocol.
+
+Ground rule for every scenario
+The survivor has no instruments and no lab. Your System must not ask for, quote, or depend on scientific readings or fixed numbers. Any check it suggests must be doable with eyes, hands, and household items, and amounts must be described in everyday terms (a handful, a bucketful, a pace, a hand's depth).
+
+STEP 01
+INPUT ECHO
+Diagnostic Echo & Cue Grounding
+Restates the land description and image cues accurately (soil condition, cracking, puddles, crust, heat, rainfall, vegetation) without hallucinating or inventing details that were not given.
+
+STEP 02
+MISSING ANALYSIS
+Soil Archetype & Root Failure Diagnosis
+Identifies the specific soil archetype and diagnoses root causes — names what is missing (drainage, moisture retention, structure, organic matter, canopy/windbreak) and isolates dominant failure factors.
+
+STEP 03
+FIX PROTOCOL
+Quantified Remediation & Sequencing
+Delivers quantified, step-by-step stabilization and remediation measures (e.g. soil amendments per m², mulch depth, leaching cycles, loosening depth, channel specs) strictly prior to crop selection.
+
+STEP 04
+NEXT ACTION
+Empirical Readiness Gate
+Establishes an empirical verification checkpoint that must pass before planting begins (e.g. soil moisture retention test, infiltration timing, crumb test, EC test) with clear pass/fail thresholds.
+
+STEP 05
+CROP SUGGESTIONS
+Rationalized Resilient Crop Options
+Offers multiple genuinely resilient crop options rationalized against the specific site signals (not a generic list), structured so the user can compare trade-offs and ecological advantages.
+
+STEP 06
+TIMEFRAME
+Dual Timeline & Remediation Buffer
+Provides realistic timeline accounting for both remediation buffer / soil recovery and true crop maturity under environmental stress (expressed as a realistic range, not a textbook single number).
+
+STEP 07
+PLANTING METHOD
+Substrate Prep & Matched Irrigation
+Specifies tailored bed/substrate preparation, planting depth/geometry, and an irrigation setup matched to scarce water or drainage constraints (e.g., drip, clay pot, mulched basin, raised bed).
+
+STEP 08
+ONGOING CARE
+Staged Cultivation & Stress Mitigation
+Multi-stage cultivation regimen covering organic fertility, abiotic stress mitigation (heat/wind/salt/waterlogging), pest & pathogen surveillance, and biological intervention options.
+
+STEP 09
+HARVEST & REGEN
+Harvest Signs & Soil Regeneration
+Clear ripeness indicators, harvesting protocol, and post-harvest soil regenerative practices (cover cropping, residue recycling, preserving windbreaks/beds) so land degradation does not restart.
+
+Core System & User Experience Rules
+📐
+Clear Step-by-Step UI Sequencing
+The participant's system interface must clearly present soil preparation and readiness testing before crop recommendations. Order of execution is critical.
+
+🛡️
+Zero Hallucinations
+Every diagnostic observation and recommendation must be grounded in the provided environmental profile and image cues. Do not assume unstated factors.
+
+🔄
+Generalization Across Conditions
+The system must handle the full Range of Conditions within its scenario category, not just one memorized test sample. Flexibility under variance is tested.

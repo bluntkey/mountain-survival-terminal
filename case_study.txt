@@ -1,0 +1,54 @@
+PART A · PARTICIPANT CASE STUDY DOSSIER
+Scenario 2: High-Altitude Cold Terrace
+Frost + Short Season
+Ground rule for every scenario
+The survivor has no instruments and no lab. Your System must not ask for, quote, or depend on scientific readings or fixed numbers. Any check it suggests must be doable with eyes, hands, and household items, and amounts must be described in everyday terms (a handful, a bucketful, a pace, a hand's depth).
+
+The Setup
+The survivor wakes on a mountain slope, in thin cold air, on a flat step that was once part of a terrace. Mornings bring frost, afternoons bring strong sun, and a ridge shades the plot long before sunset. Nobody knows how long summer lasts. Whatever the System recommends has to fit a short, cold growing season on thin, stony soil.
+
+Environmental Profile
+soil
+thin, stony, well-drained but low in organic matter; may be sloping or terraced, with walls that may be damaged
+
+climate
+cold nights with frost, cool days with strong sun, cold wind; sunlight shortened by ridges or slope direction; length of the frost-free season unknown
+
+stressors
+frost risk even in the growing season, a short season, erosion on slopes, very cold water, slow growth in cold soil
+
+Range of Conditions (Build for the Category, Not One Guess)
+A gentle terraced step vs. a steep open slope with no terraces
+
+A reasonable growing season vs. one that is barely long enough for anything (height and slope direction change everything)
+
+Stony loam vs. gravelly or sandy mountain soil vs. a patch with decent soil depth
+
+A System that only knows "cold, so plant potatoes" will fail when frost is weeks away or when the plot is in shadow by mid-afternoon. Build knowledge that reasons about season length, frost, and sunlight, including when the right answer is to ask what is missing.
+
+Core Challenge
+Two things need to be addressed together: fitting a full crop cycle into an uncertain, short season, and protecting soil and plants from cold and erosion. A System that recommends a crop without checking whether it can finish before the first hard frost has not solved the problem.
+
+What a Complete Response Should Cover
+Specific evaluation criteria and expected reasoning milestones for this scenario archetype:
+
+Step 1 — INPUT ECHO
+Restates the description and image faithfully (height clues, frost, when the sun is lost, soil, stream, wall condition, vegetation) and keeps uncertain facts marked as uncertain.
+Step 2 — MISSING ANALYSIS
+Identifies the soil archetype (thin stony mountain soil) and names what is missing: season length, frost dates, soil depth, sunlight. Gives simple no-equipment ways to find out (e.g., marking the shade line with stones at the same time each day, asking locals when frost and snow arrive, a stone-share check of a bucketful of soil).
+Step 3 — FIX PROTOCOL
+Gives practical steps with hand-measured amounts (e.g., rebuild the fallen wall, pick out stones bigger than a fist, add buckets of compost per bed, place stones as warm mulch, build a simple low cover).
+Step 4 — NEXT ACTION
+Sets a readiness gate the survivor can check by hand: wall holds when pushed, soil loose to a hand's depth, frost cover ready, soil not painfully cold to the hand at midday.
+Step 5 — CROP SUGGESTIONS
+Offers several fast, frost-tolerant, short-season crops justified by the season and frost risk, presented so the user can choose.
+Step 6 — TIMEFRAME
+Gives crop maturity plus an explicit buffer for cold-slowed growth, compared against the season available, and says plainly if a crop will not fit.
+Step 7 — PLANTING METHOD
+Specifies how to prepare and sow the plot, how to protect seedlings from frost, and how to warm very cold stream water (e.g., let it sit in the sun) before using it.
+Step 8 — ONGOING CARE
+Lays out the crop journey by growth stage, with frost-night handling, fertilizer for cold soil, a pest and disease watch for cool damp conditions, and bio-pesticide options.
+Step 9 — HARVEST
+Gives ripeness signs the survivor can see and feel, harvest before a hard freeze, storage, and soil regeneration afterward (cover crop, wall upkeep).
+💡
+Official Evaluator Note: Note: any specific crops, treatments, or products mentioned above are examples of the kind of reasoning expected, not the only correct answers. The survivor has no instruments, so all checks must use only eyes, hands, and household items.
